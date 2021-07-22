@@ -1,0 +1,369 @@
+id,question
+50487,##Introduction to Log Graphs  #28842 
+50488,5  Sketching Log Graphs with Transformations  Ex3
+50489,4  Sketching Log Graphs with Transformations Ex2
+50490,3  Sketching Log Graphs with Transformations Ex1
+50491,2  Transformation of Log Graphs
+51098,Why can `$\log_3(-9)$` not be evaluated?
+51100,Write the equation of the inverse of each exponential function below in logarithmic form.  `$ \displaystyle \begin{array}{llllll} &(a) & f(x) = 3^x    &(c) & f(x) = (\frac{1}{4})^x\\ &&&&\\ &(c) & f(x) = 10^x    &(d) & f(x) = m^x\\ \end{array} $`
+51107,Evaluate each of the following:  `$ \displaystyle \log_3\sqrt{3} $`
+51111,Evaluate each of the following:  `$ \displaystyle \log_327 $`
+51112,Evaluate each of the following:  `$ \displaystyle \log_24 $`
+51280,The following function is a transformation of `$f(x)=\log_{10}x$`. Which transformation that must be applied to `$f(x)$` to graph `$g(x)$`? Show your work.  `$g(x)=\log_{10}(x+4)$`
+51281,Sketch the graph of `$\displaystyle{f(x)=\frac{-2}{\log_2(x+2)}}$`.      
+51282,State the transformations that are needed to turn `$y=4\log_{10}(x-4)$` into `$y=-2\log_{10}(x+1)$`.  
+51284,Compare the functions `$\displaystyle f(x)=10^{(\frac{x}{3})}+1$` and `$g(x)=3\log_{10}(x-1)$`.
+51285,Sketch the graph of each function using transformations. State the domain and range and transformation mapping.   `$r(x)=\log_{10}(-2x-4)$` 
+51286,Sketch the graph of each function using transformations. State the domain and range and transformation mapping.    `$\displaystyle{k(x)=4\log_{10}\left(\frac{1}{6}x\right)-2}$` 
+51287,Sketch the graph of each function using transformations. State the domain and range and transformation mapping.   `$j(x)=\log_{10}0.5x-1$` 
+51288,Sketch the graph of each function using transformations. State the domain and range and transformation mapping.   `$h(x)=\log_{10}(2x)$`  
+51289,Sketch the graph and state the domain and range.   * `$g(x)=-\log_{10}(x-6)$` 
+51290,Sketch the graph of each function using transformations. State the domain and range and transformation mapping.  `$f(x)=3\log_{10}x+3$` 
+51291,"Let `$f(x)=\log_{10}x$`. For each function `$g(x)$`  **(a)** State the transformations that must be applied to `$f$` to produce the graph of `$g$`.  **(b)** State the coordinates of the points on `$g$` that are images of the points `$(1,0)$` and `$(10,1)$` on the graph of `$f$`.  **(c)** State the equation of the asymptote.  **(d)** State the domain and range.  * `$g(x)=\log_{10}(-x-2)$`"
+51292,"Let `$f(x)=\log_{10}x$`. For each function `$g(x)$`  **(a)** State the transformations that must be applied to `$f$` to produce the graph of `$g$`.  **(b)** State the coordinates of the points on `$g$` that are images of the points `$(1,0)$` and `$(10,1)$` on the graph of `$f$`.  **(c)** State the equation of the asymptote.  **(d)** State the domain and range.   * `$g(x)=\log_{10}(2x+4)$` "
+51293,"Let `$f(x)=\log_{10}x$`. For each function `$g(x)$`  **(a)** State the transformations that must be applied to `$f$` to produce the graph of `$g$`.  **(b)** State the coordinates of the points on `$g$` that are images of the points `$(1,0)$` and `$(10,1)$` on the graph of `$f$`.  **(c)** State the equation of the asymptote.  **(d)** State the domain and range.  iv) `$g(x)=2\log_{10}[-2(x+2)]$` "
+51294,"Let `$f(x)=\log_{10}x$`. For each function `$g(x)$`  **(a)** State the transformation mapping that needs to be applied to `$f$` to produce the graph of `$g$`.  **(b)** State the coordinates of the points on `$g$` that are images of the points `$(1,0)$` and `$(10,1)$` on the graph of `$f$`.  **(c)** State the equation of the asymptote.  **(d)** State the domain and range.   (`$g(x)=\log_{10}(3x)-4$` "
+51295,"Let `$f(x)=\log_{10}x$`. For each function `$g(x)$`  **(a)** Write `$g(x)$` in terms of `$f(x)$`.    **(b)** Which coordinates of the points on `$g$` are images of the points `$(1,0)$` and `$(10,1)$` on the graph of `$f$`?  **(c)** What is the equation of the asymptote?  **(d)** What is the domain and range?  * `$\displaystyle{g(x)=\frac{1}{2}\log_{10}(x-6)+3}$` "
+51296,"Let `$f(x)=\log_{10}x$`. For each function `$g(x)$`  **(a)** What transformations must be applied to `$f$` to produce the graph of `$g$`?  **(b)** Which coordinates of the points on `$g$` are images of the points `$(1,0)$` and `$(10,1)$` on the graph of `$f$`?  **(c)** What is the equation of the asymptote?  **(d)** What is the domain and range?  *i)* `$g(x)=-4\log_{10}x+5$` "
+51297,"Given the parent function `$f(x)=\log_{10}x$`, which equation of the function results from each of the following pairs of transformations. Explain:  reflection in the `$x$`-axis, horizontal translation 4 units right  "
+51298,"Given the parent function `$f(x)=\log_{10}x$`, which equation of the function results from each of the following pairs of transformations. Explain:  * horizontal translation 4 units left, vertical translation 3 units down "
+51299,"Given the parent function `$f(x)=\log_{10}x$`, which equation of the function results from each of the following pairs of transformations. Explain:  reflection in the `$x$`-axis, horizontal compression by a factor of `$\displaystyle{\frac{1}{3}}$` "
+51300,"Given the parent function `$f(x)=\log_{10}x$`, which equation of the function results from each of the following pairs of transformations. Explain:  * vertical stretch by a factor of 5, vertical translation 3 units up "
+51301,"Which coordinates are the the images of the points `$\displaystyle{\left(\frac{1}{10},-1\right)}$`, `$(1,0)$`, and `$(10,1)$` for  the function   `$g(x)=\log_{10}(x+4)$` "
+51302,"Which coordinates are the the images of the points `$\displaystyle{\left(\frac{1}{10},-1\right)}$`, `$(1,0)$`, and `$(10,1)$` for  the function   `$g(x)=\log_{10}x-5$`  "
+51303,"Which coordinates are the the images of the points `$\displaystyle{\left(\frac{1}{10},-1\right)}$`, `$(1,0)$`, and `$(10,1)$` for  the functions in `$g(x)=\log_{10}(2x)$`  "
+51304,"Which coordinates are the the images of the points `$\displaystyle{\left(\frac{1}{10},-1\right)}$`, `$(1,0)$`, and `$(10,1)$` for the function  `$g(x)=3\log_{10}x$`  "
+51305,The following function is a transformation of `$f(x)=\log_{10}x$`. Which transformation must be applied to `$f(x)$` to graph `$g(x)$`. Show your work.  `$g(x)=\log_{10}x-5$` 
+51306,The following function is a transformation of `$f(x)=\log_{10}x$`. Which transformation must be applied to `$f(x)$` to graph `$g(x)$`? Show your work.  `$g(x)=\log_{10}(2x)$` 
+51307,The following function is a transformation of `$f(x)=\log_{10}x$`. Which transformations must be applied to `$f(x)$` to graph `$g(x)$`? Show your work.  `$g(x)=3\log_{10}x$` 
+51308,Describe three characteristics of the function `$y=\log_{10}x$` that remain unchanged under the following transformations: a vertical stretch by a factor of 4 and a horizontal compression by a factor of 2.  
+51309,"The function `$f(x)=\log_{10}x$` has the point `$(10,1)$` on its graph. If `$f(x)$`is vertically stretched by a factor of 3, reflected in the `$x$`-axis, horizontally stretched by a factor of 2, horizontally translated 5 units to the right, and vertically translated 2 units up, determine  a) the equation of the transformed function  b) the coordinates of the image point transformed from `$(10, 1)$`  c) the domain and range of the transformed function   "
+51310,"Which description of the graphs of `$f(x)=\log_3x$`, `$g(x)=\log_3(x+4)$`, and `$h(x)=\log_3x+4$` are correct? Show your work. "
+51413,Evaluate.     `$\displaystyle{4^{\log_4\frac{1}{16}}}$`   
+51414,Use your knowledge of logarithms to solve each of the following equations for `$x$`.  `$\displaystyle{\log_{\frac{1}{4}}x=-2}$` 
+51415,Evaluate.   `$\log_3\sqrt{27}$`
+51416, Use your knowledge of logarithms to solve each of the following equations for `$x$`.  `$\displaystyle{\log_4\frac{1}{64}=x}$` 
+51417,Evaluate.  `$\displaystyle{\log_2\frac{1}{4}-\log_31}$` 
+51418,Evaluate.  `$\log_381+\log_464$`    
+51419,Evaluate.  `$\log_5125-\log_525$` 
+51420,"Solve for `$x$`. Round your answers to two decimal places, if necessary.   `$\log25=x$` "
+51421,"Solve for `$x$`. Round your answers to two decimal places, if necessary.   `$\log1=x$` "
+51422,"Solve for `$x$`. Round your answers to two decimal places, if necessary.  `$\displaystyle{\log\left(\frac{1}{10}\right)}$`   "
+51423,Evaluate `$\log_216^{\frac{1}{3}}$`.
+51426,Express in exponential form.   `$\displaystyle{\log_{\frac{1}{6}}216=-3}$` 
+51427,Evaluate.    `$\log_5\sqrt[3]{5}$` 
+51428,Evaluate.  `$\log_6\sqrt{6}$` 
+51429,"Solve for `$x$`. Round your answers to two decimal places, if necessary.   `$\log x=-2$`  "
+51430,"Solve for `$x$`. Round your answers to two decimal places, if necessary.   `$\log x=0.25$` "
+51431,"Solve for `$x$`. Round your answers to two decimal places, if necessary.   `$\log(1 000 000)=x$` "
+51435,Express in exponential form.   `$\displaystyle{\log_5\frac{1}{25}=-2}$`   
+51441, Use your knowledge of logarithms to solve each of the following equations for `$x$`.   `$\displaystyle{\log_5x=\frac{1}{2}}$` 
+51442, Use your knowledge of logarithms to solve each of the following equations for `$x$`.   `$\displaystyle{\log_x27=3}$` 
+51443, Use your knowledge of logarithms to solve each of the following equations for `$x$`.  `$\displaystyle{\log_5x=3}$` 
+51449, Express in logarithmic form.    `$8^0=1$` 
+51451, Use your knowledge of logarithms to solve each of the following equations for `$x$`.  `$\displaystyle{\log_4x=1.5}$`  
+51452,Determine the inverse of each relation.  `$y=3\log_2(x-3)+2$`
+51453,Determine the inverse of each relation.  `$y=(0.5)^{x+2}$`
+51454,Determine the inverse of each relation.  `$y=3(2)^x$`
+51455,Determine the inverse of each relation.  * `$y=\sqrt[3]{x}$`
+51456,Simplify.  * `$\displaystyle{5^{\log_58}-3^{\log_35+\log_37}}$`
+51457,Simplify.  * `$\displaystyle{3^{\log_327}+10^{\log_{10}1000}}$`
+51458,To evaluate a logarithm whose base is not 10 you can use the following relationship `$\displaystyle{\log_ab=\frac{\log b}{\log a}}$` Use this to evaluate each of the following to four decimal places.   `$\log_545$`
+51459,To evaluate a logarithm whose base is not 10 you can use the following relationship `$\displaystyle{\log_ab=\frac{\log b}{\log a}}$` Use this to evaluate each of the following to four decimal places.   `$\log_210$`
+51460,To evaluate a logarithm whose base is not 10 you can use the following relationship `$\displaystyle{\log_ab=\frac{\log b}{\log a}}$` Use this to evaluate each of the following to four decimal places.   `$\log_55$`
+51461, Evaluate.    `$\displaystyle{\log_{\frac{1}{10}}1}$`       
+51462, Evaluate.    `$\displaystyle{a^{\log_ab}}$`       
+51463,Evaluate.     `$\displaystyle{5^{\log_525}}$` 
+51465,Evaluate.    `$\displaystyle{\log_mm^n}$` 
+51469,Consider the expression `$\log_5a$`.  * For what values of `$a$` will this expression be undefined?
+51470,Consider the expression `$\log_5a$`.  * For what values of `$a$` will this expression yield negative numbers?
+51471,Consider the expression `$\log_5a$`.  * For what values of `$a$` will this expression yield positive numbers?
+51472,"Graph the function and its inverse. State the domain, range, and asymptote of each. Determine the equation of the inverse.  `$y=20(8)^x$`"
+51473,"Graph the function and its inverse. State the domain, range, and asymptote of each. Determine the equation of the inverse.  `$y=2+3\log x$`"
+51474,"Graph the function and its inverse. State the domain, range, and asymptote of each. Determine the equation of the inverse.  `$y=-2\log_53x$`"
+51475,"Graph the function and its inverse. State the domain, range, and asymptote of each. Determine the equation of the inverse.  `$y=3\log(x+6)$`"
+51478,"The number of mold spores in a petri dish increases by a factor of 10 every week. If there are initially 40 spores in the dish, how long will it take for there to be 2000 spores?    "
+51479,The doubling function `$\displaystyle{y=y_02^{\frac{t}{D}}}$` can be used to model exponential growth when the doubling time is `$D$`. The bacterium `$Escherichia$` `$coli$` has a doubling period of 0.32 h. A culture of `$E.$` `$coli$` starts with 100 bacteria.  * How many hours will it take for there to be 450 bacteria in the culture? Explain your strategy. 
+51480,The doubling function `$\displaystyle{y=y_02^{\frac{t}{D}}}$` can be used to model exponential growth when the doubling time is `$D$`. The bacterium `$Escherichia$` `$coli$` has a doubling period of 0.32 h. A culture of `$E.$` `$coli$` starts with 100 bacteria.  * Determine the equation of the inverse. What does this equation represent?
+51481,The doubling function `$\displaystyle{y=y_02^{\frac{t}{D}}}$` can be used to model exponential growth when the doubling time is `$D$`. The bacterium `$Escherichia$` `$coli$` has a doubling period of 0.32 h. A culture of `$E.$` `$coli$` starts with 100 bacteria.  * Graph your equation. * Graph the inverse.
+51482,"The doubling function `$\displaystyle{y=y_02^{\frac{t}{D}}}$` can be used to model exponential growth when the doubling time is `$D$`. The bacterium `$Escherichia$` `$coli$` has a doubling period of 0.32 h. A culture of `$E$`. `$coli$` starts with 100 bacteria.  * Determine the equation for the number of bacteria, `$y$`, in `$x$` hours.        "
+51483,"The astronomer Johannes Kepler (1571~1630) determined that the time, `$D$`, in days, for a planet to revolve around the Sun is related to the planet's average distance from the Sun, `$k$`, in millions of kilometres. This relation is defined by the equation `$\displaystyle{\log D=\frac{3}{2}\log k-0.7}$` Verify that Kepler's equation gives a good approximation of the time it takes for Earth to revolve around the Sun, if Earth is about 150 000 000 km from the Sun."
+51484,"The function `$S(d)=93\log d+65$` relates the speed of the wind, `$S$`, in miles per hour, near the centre of a tornado to the distance that the tornado travels, `$d$`, in miles.   * If a tornado has sustained winds of approximately 250 mph, estimate the distance it can travel."
+51538,Write each expression as a single log.  `$ \displaystyle  3\log_{5}2 + \log_{5}7 $`
+51541,Express each of the following as a logarithm of a product of quotient.  `$ \displaystyle \log_6 54  +\log_62 - \log_63 $`
+51542,Express each of the following as a logarithm of a product of quotient.  `$ \displaystyle \log_{25}5^3 $`
+51543,"Write `$y = \log_2(4x), y = \log_2(8x)$`, and `$y= \log_2(\frac{x}{2})$`  with respect to `$y  =\log_2x$`."
+51544,Use the laws of logarithms to simplify and then evaluate each expression.  `$ \displaystyle \log_2224 - \log_27 $`
+51546,Express each of the following as a logarithm of a product of quotient.  `$ \displaystyle  \log_410 + \log_412 - \log_420  $`
+51547,Express each of the following as a logarithm of a product of quotient.  `$ \displaystyle \log_67 + \log_68 + \log_69 $`
+51548,Write the expression as a sum of difference of logarithms.  `$ \displaystyle \log (\frac{123}{31})	 $`
+51549,Write the expression as a sum of difference of logarithms.  `$ \displaystyle \log_{2}(14 \times 9) $`
+51550,Write the expression as a sum of difference of logarithms.  `$ \displaystyle  \log(45 \times 68)  $`
+51554,Use the laws of logarithms to express each side of the equation as a single logarithm.   Then compare both sides of the equation to solve.   `$ \displaystyle  \log_5x  - \log_58   = \log_56 + 3\log_52 $`
+51555,Use the laws of logarithms to express each side of the equation as a single logarithm.   Then compare both sides of the equation to solve.   `$ \displaystyle \log_7x =  2 \log_7 25  - 3\log_7 5 $`
+51556,Use the laws of logarithms to simplify and then evaluate each expression.  `$ \displaystyle  \log_44^7 $`
+51557,Express each of the following in the form  `$r \log_ax$`.  `$ \displaystyle \log 5^2	 $`
+51558,Express each of the following as a logarithm of a product of quotient.  `$ \displaystyle \log_67 + \log_68 + \log_69 $`
+51559,Express each of the following in the form  `$r \log_ax$`.  `$ \displaystyle \log_37^{-1} $`
+51561,Use the laws of logarithms to express each side of the equation as a single logarithm.   Then compare both sides of the equation to solve.   `$ \displaystyle  \log_3x   = 2 \log_3 10 - \log_325 $`
+51562,Use the laws of logarithms to express each side of the equation as a single logarithm.   Then compare both sides of the equation to solve.   `$ \displaystyle  \log_4x + \log_412 = \log_448	 $`
+51563,Use the laws of logarithms to express each side of the equation as a single logarithm.   Then compare both sides of the equation to solve.   `$ \displaystyle \log x  = 2\log 4 + 3 \log 3	 $`
+51564,Use the laws of logarithms to express each side of the equation as a single logarithm.   Then compare both sides of the equation to solve.   `$ \displaystyle \log_2 x = 2\log_2 7  +\log_2 5 $`
+51565,Write each expression as a single log.  `$ \displaystyle  2\log 8 + \log 9 - \log 36 $`
+51566,Write each expression as a single log.  `$ \displaystyle \log_43 + \frac{1}{2}\log_48  -\log_42 $`
+51567,Write each expression as a single log.  `$ \displaystyle  \log_3 12 + \log_3 2 -\log_36 $`
+51568,Write each expression as a single log.  `$ \displaystyle 2\log_23 + \log_25 $`
+51569,Write each expression as a single log.  `$ \displaystyle  2\log_38 -  5\log_32	 $`
+51572,"Use the laws of logarithms to express each of the following int terms of `$\log_b x , \log_by$`, and `$\log_bz$`.  `$ \displaystyle \log_bxyz $`"
+51573,Express each of the following as a logarithm of a product of quotient.  `$ \displaystyle \log_82  + 3\log_82 + \frac{1}{2} \log_816 $`
+51574,Express each of the following as a logarithm of a product of quotient.  `$ \displaystyle \log_354 + \log_3(\frac{3}{2}) $`
+51575,Express each of the following as a logarithm of a product of quotient.  `$ \displaystyle \log_2 \sqrt{36}  - \log_2\sqrt{72} $`
+51576,Express each of the following as a logarithm of a product of quotient.  `$ \displaystyle \log_66\sqrt{6} $`
+51577,Use the laws of logarithms to simplify and then evaluate each expression.  `$ \displaystyle  \log \sqrt{10}  $`
+51578,Use the laws of logarithms to simplify and then evaluate each expression.  `$ \displaystyle \log 50 + \log 2 $`
+51579,Use the laws of logarithms to simplify and then evaluate each expression.  `$ \displaystyle \log_510 + \log_52.5	 $`
+51580,Use the laws of logarithms to simplify and then evaluate each expression.  `$ \displaystyle \log_3135 - \log_35	 $`
+51581,Express each of the following in the form  `$r \log_ax$`.  `$ \displaystyle \log_7(36)^{0.5} $`
+51582,Express each of the following in the form  `$r \log_ax$`.  `$ \displaystyle \log\sqrt[3]{45}  $`
+51583,Express each of the following in the form  `$r \log_ax$`.  `$ \displaystyle \log_mp^q   $`
+51584,Express each of the following as a logarithm of a product of quotient.  `$ \displaystyle  \log_34 - \log_32 $`
+51585,Express each of the following as a logarithm of a product of quotient.  `$ \displaystyle  \log x  - \log y $`
+51586,Express each of the following as a logarithm of a product of quotient.  `$\displaystyle \log 5 + \log 7 $`
+51587,Write the expression as a difference of logarithms.  `$ \displaystyle \log_4 (\frac{81}{30}) $`
+51588,Write the expression as a sum of difference of logarithms.  `$ \displaystyle \log_m(\frac{p}{q})	  $`
+51590,Write `$g(x)$` in terms of `$f(x)$` when `$f(x) = \log_2x$` to the graph `$g(x)  = \log_2(8x^3)$`.
+52317,"If `$\log_b(a^2) = 3$`, which of the following is the value of `$\log_a(b^2)$`?  `$ \displaystyle \begin{array}{cccccc}  &(A) &  \frac{5}{3} &(B) &  \frac{3}{4}		&(C)&  2\frac{2}{3}  &(D) & \frac{4}{3}		 &(E) &  \frac{3}{2} \\ \end{array} $`  "
+52318,"If `$a + b = 3$` and `$a^2 + b^2 = 7$`, then what is the value of `$a^4 + b^4$`?  `$ \displaystyle \begin{array}{ccccc}  &(A) &  45		&(B)& 47		&(C) &  49  &(D) &  51		 &(E)&  81\\ \end{array} $`  "
+52319,"A triangle is contracted so that its base is a diagonal of a certain square and its area is equal to that of the square.    Express the length of the altitude of the triangle in terms of the square's side length, `$s$`."
+52320,"If `$\log_{\sin x}(\cos x) = \frac{1}{2}$`, and `$0 < x < \frac{\pi}{2}$`, what is the value of `$\sin x$`?  * **A.** `$\frac{1}{\sqrt{3}}$` * **B.** `$\frac{\sqrt{5}-1}{2}$` * **C.** `$\frac{2}{\sqrt{3}}$` * **D.** `$\frac{\sqrt{5} + 1}{3}$` * **E.** `$\frac{2\sqrt{5} - 1}{2}$` "
+52321,"Astronauts in space have just encountered three unknown stars and assigned them temporary names.  Their absolute magnitude are recorded.  #979   How much brighter, in absolute terms, is the brightest of these three stars than the   * i) second brightest? * ii) least brightest?  "
+52322,"How bright a star appears can depend on how much light the star actually emits and how far away it is.  The stellar magnitude scale can be adjusted to account for distance as follows:  * `$ \displaystyle M_2-M_1 = \log(\frac{b_1}{b_2}) $`  Here, M refers to a star's absolute  magnitude, that is, how brightly it appears from a standard distance of 10 parsecs (or 32.6 light-years).    The absolute brightness of Sirius is 1.4 and the absolute brightness of Betelgeuse is -8.1.  (a) Which of these two stars is brighter in absolute terms, and by how much?  (b)  What does this suggest about these two starts' distance from Earth?"
+52323,"The stellar magnitude scale compares the brightness of stars using the equation  * `$ \displaystyle m_2-m_1 = \log(\frac{b_1}{b_2}) $`  where `$m_1$` and `$m_2$` are the apparent magnitudes of the two stars being compared (how bright they appear in the sky) and `$b_1$` and `$b_2$` are their brightness (how much light they actually emit).  This relationship does not factor in how far from Earth the stars are.   (a) Sirius is the brightest-appearing star in our sky, with an apparent magnitude of `$-1.5$`.   How much brighter does Sirius appear than Betelgeuse, whose apparent magnitude is 0.12?  (b) The Sun appears about `$1.3 \times 10^{10}$` times as brightly in our sky as does sirius.   What is the apparent magnitude of the Sun?"
+52324,"The most intense earthquakes measured have had a value of about 8.9 on the Richter scale.   How do these earthquakes compare in intensity to a standard, low-level earthquake?"
+52325,"On February 10, 2000, an earthquake happened in Welland, Ontario, that measured 2.3 on the Richter scale.   (a) How many times as intense was this as a standard low-level earthquake?  (b) On July 22, 2001, an earthquake in St. Catharines measured 1.1 on the Richter scale.  How many times ass intense as the St. Catharines earthquake was the Welland earthquake?"
+52326,"On September 26, 2001, an earthquake in North Bay, Ontario, occurred that was 10 000 times as intense as `$I_0$`.   What was the measure of this earthquake on the Richter scale?"
+52327,The sound intensity of a pin drop is about `$\frac{1}{30000}$` of the sound intensity of a normal conversation.   What wish the decibel level of a pin drop?
+52328,A loud car stereo has a decibel level of `$110$` dB.      How many times as intense as the sound of a loud car stereo is the sound of a rock concert speaker?  * Intensity of shout = 80 * Intensity of normal voice = 60 * Intensity of whisper = 30 * Intensity of car stereo = 110 * Intensity of rock concert = 150 
+52329,How many times as intense is the sound of a shout as the sound of a   a) conversation  b) whisper  when    * Intensity of shout = 80 * Intensity of normal voice = 60 * Intensity of whisper = 30  
+52330,Determine the pH of a solution with a hydronimum ion concentration of   `$ \displaystyle \begin{array}{ccccccc}  &(a) & 0. 000 01 	 &(b)&2.5 \times 10^{11}\\ \end{array} $` 
+52331,"The hydronium ion concentration of most chemicals varies from about `$10^{-15} mol/L$` to `$0.1 mol/L$`.   Given this fact, why do you suppose that the pH scale was created   (a) in terms of a logarithmic function  (b) with a factor of `$-1$`"
+52332,"Determine the hydronium ion concentration, in moles per litre, of a solution with each pH.  `$ \displaystyle \begin{array}{ccccccc}  &(a) & 11	&(b)&3 \\ &(c) & 8.5	&(d) &  4.4 \\ \end{array} $` "
+52333,Determine the pH of a solution with each hydronium ion concentration.  `$ \displaystyle \begin{array}{ccccccc}  &(a) &0.01	&(b)& 0.000 034 \\ &(c) & \log 10^{-9}	&(d) & 1.5 \times 10^{-10} \\ \end{array} $` 
+52334,3  Richter Scale
+52335,2  Decibel Scale
+52336,1  pH Scale
+53463,Decibel Scale
+53464,Richter Scale
+53465,pH Scale
+54011,Calculate to two decimal places the pH of a solution with each concentration of `$H^+$`.  (a) concentration of `$H^+ = 0.000 32$`  (b) concentration of `$H^+ = 0.000 3$`  (c) concentration of `$H^+ = 0. 000 045$`  (d) concentration of `$H^+ = 0.005$`
+54012,"A new car has an interior sound level of 80dB at 50 km/h.    A second car, at the same speed, has an interior sound level that is two times more intense than that of the new car.   Calculate the sound level inside the second car."
+54013,"Calculate the hydrogen ion concentration of each substance.  * oven cleaner, with a pH of 13"
+54014,"A wound, initially with an area of `$80 cm^2$`, heals according to the formula `$A(t)= 80(10^{-0.023t})$`, where `$A(t)$` is the area of the wound in square centimetres after `$t$` days of healing.  In how many days will 75% of the wound be healed?"
+54015,"Calculate the hydrogen ion concentration of each substance.  * an egg, with a pH of 7.8"
+54016,"How long will it take for $2500 to accumulate to $4000 if it is invested at an interest rate of 6.5%/a, compounded annually?"
+54017,"Calculate the hydrogen ion concentration of each substance.  * milk, with a pH of 6.6"
+54018,"Dry cleaners use a cleaning fluid that is purified by evaporation and condensation after each cleaning cycle.   Every time the fluid is purified, 2.1% of it is lost.   The fluid has to be topped up when half of the original build remains.   After how many cycles will the fluid need to be topped up?"
+54019,"Calculate the hydrogen ion concentration of each substance.  * baking soda, with a pH of 9"
+54020,The loudness of a heavy snore is 69 dB.  How many times as loud as a normal conversation of 60 dB is a heavy snore?
+54021,A particular sound is 1 000 000 times more intense than a sound you ca just barely hear.   What is the loudness of the sound in decibels?
+54022,Calculate the pH of a swimming pool with a hydrogen ion concentration of `$6.21\times 10^{-8} mol/L$`.
+54023,"If one earthquake has a magnitude of 5.2 on the Richter scale and a second earthquake has a magnitude of 6, compare the intensities of the two earthquakes."
+54024,"The intensity, I, of light passing through water can be modelled by the equation `$I= 10^{1-0.13x}$`, where `$x$` is the depth of the water in metres.   Most aquatic plants require a light intensity of 4.2 units for strong growth.   Determine the depth of water at which most aquatic plants receive the required light."
+54025,The sound level of a moving power lawn mower is 109 dB.   The noise level in front of the amplifiers at a concert is about 118 dB.   How many times louder is the noise at the front of the amplifiers than the noise of a moving power lawn mower?
+54026,Drinking water from a particular tap has a pH  between 6.3 and 6.6.   Is this tap water more or less acidic than distilled water?   Explain your answer.
+54027,Distilled water has an `$H^+$` concentration of `$10^{-7} mol/L$`.  Calculate the pH of distilled water.
+54217,Simplify  `$ \displaystyle (\log_{49}\sqrt{125})(\log_5\sqrt[3]{7}) $` 
+54220,"If `$a = \log_2(3x - 1)$` and `$b = \log_4(2x)$`, write `$\log_4(\frac{9x^2-6x+1}{4x^2})$` in terms of a and b."
+54222,"If `$a = \log(1 + \frac{1}{7})$` and `$b = \log(1 + \frac{1}{49})$`, express `$\log 7$` in terms of `$a$` and `$b$`."
+54223,Simplify  `$ \displaystyle  (\log_881+\log_{\frac{1}{8}}3)(\log_881-\log_{\sqrt{8}}3) $`
+55742,"Graph `$f(x) = -\frac{1}{2}\log(x + 5)-1$` showing:  * symmetry, if any * x intercept, if any * y intercept, if any * asymptotes, if any * domain and range"
+74123,  Find the value of   `$ \displaystyle (-2^{\log_{\sqrt{2}}\frac{1}{3}})\times(\log_{2}8) $`   
+74124, Evaluate the expression.  `$ \displaystyle \log_7(\log 10^{49}) $`
+74125, Evaluate the expression.  `$ \displaystyle \log_{2}\log_3(3^{128}) $`
+74126, Evaluate the expression.  `$ \displaystyle \log \log 10^{100} $`
+74127, Evaluate the following using the property `$\displaystyle \log_a a^x  = x$`  `$ \displaystyle  \log_{0.5}2 $`
+74128, Evaluate the following using the property `$\displaystyle \log_a a^x  = x$`  `$ \displaystyle  \log_{121}11  $`
+74129, Evaluate the following using the property `$\displaystyle \log_a a^x  = x$`  `$ \displaystyle \log_9 27^2 $`
+74130, Evaluate the following using the property `$\displaystyle \log_a a^x  = x$`  `$ \displaystyle \log_981 $`
+74131, Evaluate the following using the property `$a^{\log_a x}  = x$`  `$ \displaystyle 125^{-\log_56} $`
+74132, Evaluate the following using the property `$a^{\log_a x}  = x$`  `$ \displaystyle 25^{\log_5 125} $`
+74133, Evaluate the following using the property `$a^{\log_a x}  = x$`  `$ \displaystyle 27^{\log_93} $`
+74134, Evaluate the following using the property `$a^{\log_a x}  = x$`  `$ \displaystyle 2^{2\log_43 } $`  
+74135, Evaluate the following without a calculator  `$ \displaystyle \log_864 $`
+74136, Evaluate the following without a calculator  `$ \displaystyle \log_{0.5}16 $`
+74137, Evaluate the following without a calculator  `$ \displaystyle  \log_3 27^2 $`
+74138, Evaluate the following without a calculator  `$ \displaystyle \log_93 $`
+74139, Evaluate the following using the property `$a^{\log_a x}  = x$`  `$ \displaystyle  5^{-\log_56}  $`
+74140, Evaluate the following using the property `$a^{\log_a x}  = x$`  `$ \displaystyle 5^{\log_5 125} $`
+74141, Evaluate the following using the property `$a^{\log_a x}  = x$`  `$ \displaystyle 3^{\log_93} $`
+74142, Evaluate the following using the property `$a^{\log_a x}  = x$`  `$ \displaystyle 2^{2\log_23} $`
+74143, Evaluate the expression.  `$ \displaystyle  2^{\log_{2}{3}} + 1 $`
+74144, Evaluate the expression.  `$ \displaystyle 2^{\log_{2}{13}}	 $`
+74145, Evaluate the expression.  `$ \displaystyle \log_{4}{4^{a + b}}  $`
+74146, Evaluate the expression.  `$ \displaystyle \log_{7}\frac{1}{49} $`
+74147, Evaluate the expression.  `$ \displaystyle \begin{array}{cccc} &(i)&\log_{7}1							&(ii) & \log_{4}{1024} \\ \end{array} $`
+74148, Evaluate the expression.  `$ \displaystyle \log_{10}100 $`
+74149, Evaluate the expression.  `$ \displaystyle \log_{3}\sqrt{27} $`
+74150,Isolate x.  `$ \begin{array}{ccccccc} 	&(a) & 3^x = 32		&				(b)& 5^x = 66 \\ 	&(c)&10^x = 157						&(d) &1.03^x = 1.69 \\ 	&(e) & 4.5^x = 600							&(f) & \log 1.07^x = 2 \\ \end{array} $` 
+74151," Change the following to logarithmic notation, `$x = a^y$`.  `$ \begin{array}{ccccccc} &(a) & \log_{4}1024 = 5					&(b)  &\log_{7}7 = 1 \\ 	&(c)& \log_{6}7776 = 5			&(d)& \log_{a}p = r  \\ \end{array} $`"
+74152," Change the following to logarithmic notation, `$y = \log_{a}x$`.  `$ \begin{array}{ccccc} &(a) & 3^5 = 243						&(b) & 2^7 = 128  \\ 	&(c) & 7^3 = 343			&(d) & 11^4 = 14 641  \end{array} $`"
+74153,"If `$m_1$` and `$m_2$` are the roots of the equation `$3x^2 - 4x + 12 = 0$`, determine the value of `$\log_2 m_1 + \log_2 m_2$`."
+74154, What is wrong with the following solution.  `$ \begin{array}{cccc} 	\log 0.1 &<& 2 \log 0.1 \\ 					 &= & \log(0.1)^2 \\ 					 &= & \log 0.01  \\ 	\log 0.1 &<& \log 0.01  \\ 	 		 0.1 &<&   0.01 \\ \end{array} $` 
+74155,Show that   `$ \displaystyle -\ln(x - \sqrt{x^2 - 1}) = \ln(x + \sqrt{x^2 - 1}) $`
+74156, Simplify using Change of Bases Law.   `$ \displaystyle (\log_{3}15)(\log_{5}27) $`
+74157, Simplify using Change of Bases Law.   `$ \displaystyle (\log_{2}5)(\log_{5}7) $`
+74158,Use the Laws of Logarithms to combine the expression.  `$ \displaystyle \log_{a}b + c\log_{a}d - r\log_{a}s $`
+74159,Use the Laws of Logarithms to combine the expression.  `$ \displaystyle \frac{1}{3}\log(2x + 1) + \frac{1}{2}[\log(x - 4) - \log(x^4 - x^2 - 1)] $`
+74160,Use the Laws of Logarithms to combine the expression.  `$ \displaystyle 2(\log_{5}x + 2\log_{5}y) - 3\log_{5}z $`
+74161,Use the Laws of Logarithms to combine the expression.  `$ \displaystyle \log_{5}(x^2 - 1) - \log_{5}(x - 1) $`
+74162,Use the Laws of Logarithms to combine the expression.  `$ \displaystyle \log_{2}A + \log_{2}B - 2\log_{2}C  $`
+74163,Use the Laws of Logarithms to combine the expression.  `$ \displaystyle \log_{3}5 + 5\log_{3}2 $`
+74164, Use the Laws of Logarithms to expand the expression fully.  `$ \displaystyle \ln(\frac{x^3\sqrt{x - 1}}{3x + 4}) $`
+74165, Use the Laws of Logarithms to expand the expression fully.  `$ \displaystyle \log\sqrt{\frac{x^2 + 4}{(x^2 + 1)(x^3 - 7)^2}} $`
+74166, Use the Laws of Logarithms to expand the expression fully.  `$ \displaystyle \log\sqrt[4]{x^2 + y^2}  $`
+74167, Use the Laws of Logarithms to expand the expression fully.  `$ \displaystyle \ln(x\sqrt{\frac{y}{z}})	 $`
+74168, Use the Laws of Logarithms to expand the expression fully.  `$ \displaystyle \log_{2}(\frac{x(x + 1)}{\sqrt{x^2 - 1}}) $`
+74169, Use the Laws of Logarithms to expand the expression fully.  `$ \displaystyle \log(\frac{x^3y^4}{z^6}) $`
+74170,Simplify the expression.  `$ \displaystyle \log(\log 10^{10 000}) $`  
+74171,Simplify the expression.  `$ \displaystyle  \log_{4}16^{100} $`
+74172,Simplify the expression.  `$ \displaystyle \log_{2} 6 - \log_{2}15 + \log_{2}20	 $`
+74173,Simplify the expression.  `$ \displaystyle \log \frac{1}{\sqrt{1000}}  $`
+74174,Simplify the expression.  `$ \displaystyle \log 4 + \log 25 $`
+74175,Simplify the expression.  `$ \displaystyle \log_{2}(160) - \log_{2}5 $`
+74182,`$\log_3 1.2$` in terms of `$x = \log_34$` and `$y = \log_53$`.
+74183,Find `$\log_310$` in terms of `$x = \log_34$` and `$y = \log_53$`.
+74184, Find the sum  `$ \displaystyle \log \frac{1}{2} + \log \frac{2}{3} + \log \frac{3}{4} + .... + \log \frac{99}{100}  $`
+76133,Expanding Logs
+76134,Combining Logs ex2
+76135,Combining Logs ex1
+76136,Log Law 3 Power Rule
+76137,`$ \displaystyle \log_a(\frac{A}{B}) =\log_a(A) -\log_a(B)  $` 
+76138,**Introduction to Product Law of Logs**  `$ \displaystyle \log_a(AB) =\log_a(A) +\log_a(B)  $`   *ex* Expand the log and simplify. `$ \displaystyle \log_26 $`  #5102  *ex* Expand the log and simplify. `$ \displaystyle \log_2(12x^2y) $`  #5103
+80401,"Prove that `$a, b$`, and `$c$` are 3 numbers that form a geometric sequence if and only if `$\log_xa, \log_xb$` and `$\log_xc$` form an arithmetic sequence."
+80406,"The points `$A(x_1, y_1)$` and `$B(x_2, y_2)$` lie on the graph of `$y =\log_ax$`.   Through the midpoint of `$AB$` a horizontal line is drawn to cut the curve at `$C(x_3, y_3)$`.   Show that `$(x_3)^2 = x_1x_2$`."
+80408,If `$\log_83 =k$` then express `$\log_818$` in terms of `$k$`.
+80410,What is the sum of the following series?  `$ \displaystyle \log \frac{3}{2} + \log \frac{4}{3} + \log \frac{5}{4} + ... + \log \frac{200}{199} $`
+80826,Solve for x.  `$ \displaystyle \log_{0.04}5  =  x $`
+80827,Evaluate without a calculator.  `$ \displaystyle 2^{ \log_2 5 -  1} $`
+80828,Evaluate without a calculator.  `$ \displaystyle 5^{\log_5 10 -  1}  $`
+80829,Evaluate without a calculator.  `$ \displaystyle 7^{0.5\log_749}	 $`
+80830,Evaluate without a calculator.  `$ \displaystyle 81^{0.5 \log_9 7}  $`
+80831,Evaluate without a calculator.  `$ \displaystyle 25^{\log_5 3} $`
+80832,Evaluate without a calculator.  `$ \displaystyle 36^{\log_6 3} $`
+85213,Property3 Ex3  #8082
+85214,Property3 and example  *ex* Simplify `$\displaystyle \log_{16}8 $`
+85215,Log Properties  #8081
+85216,Introduction to Logs  `$\displaystyle A^x = B  $` is equivalent to  `$\displaystyle x = \log_AB $`
+88349, Evaluate the express without using a calculator.  `$ \displaystyle \log \log 10^{100} $`
+88350,Find the value of `$-\frac{1}{3}\log_{2}8$`.
+88351, Solve for `$x$` in each of the following.  `$ \displaystyle \begin{array}{cccccc} &a) &3^x = 32 &b)  &5^x = 66 \\ &c) &10^x = 157 &d)  &1.03^x = 1.69 \\ &e) & 4.5^x = 600 &f) &\log 1.07^x = 2 \\ \end{array} $`
+88352, Evaluate the expression.  a)  `$ \displaystyle  \log_{7}1	 $`  b)  `$ \displaystyle \log_{4}{1024}  $`
+88353, Evaluate the expression.  `$ \displaystyle \log_{3}\sqrt{27} $`
+88354, Evaluate the expression.  `$ \displaystyle \log_{10}(100) $`
+88355," Change the following to logarithmic notation, `$x = a^y$`.   `$ \displaystyle \begin{array}{ccccc} &a) &   \log_{4}1024 = 5	&b) &   \log_{7}7 = 1  \\ &c) &  \log_{6}7776 = 5		&d) &   \log_{a}p = r  \end{array} $`"
+88356," Change the following to logarithmic notation, `$y = \log_{a}x$`.  `$ \displaystyle \begin{array}{ccccc} &a) &  3^5 = 243	&b) &   2^7 = 128 \\ &c) &  7^3 = 343		&d) &   11^4 = 14 641\\ \end{array} $`"
+89073," Sketch the following log functions and state it's domain and range.  HINT: Consider the domain and expand the log expression using the laws.  `$\displaystyle f(x) = \log_2(\frac{x^2}{x + 2}) $`"
+89074," Sketch the following log functions and state it's domain and range.  HINT: Consider the domain and expand the log expression using the laws.  `$\displaystyle f(x) = -\log_39(16 - x^2) 	 $`"
+89075,Solve for the inequality.  `$\displaystyle 1 \leq \log_3(4 - x^2) \leq 3 $`
+89076,Solve for the inequality.  `$\displaystyle 10 < 3^{\log_2(x - 1)} < 82	 $`
+89077,Solve for the inequality.  `$\displaystyle x^2e^x - 2e^x < 0  $`
+89078,Solve for the inequality.  `$\displaystyle 2 < 10^x < 5		 $`
+89079,Solve for the inequality.  `$\displaystyle 3\leq \log_{2}x \leq 4  $`
+89080,Solve for the inequality.  `$\displaystyle \log(x - 2) + \log(9 - x) < 1 $`
+89098,#13339 
+89099,#13338 
+89100,#13337 
+89101,#13336 
+89102,#13335 
+89103,Inequalities with logs:  `$ \displaystyle \log_2(x + 1) > 2 $`
+89104,
+89105,
+89106,
+89107,
+94415,Find the inverse function of `$y = -\log_2(2x + 4) + 3$`.  Sketch both functions on the same grid.
+94416,Show that `$f(x) = 4^x$` and `$g(x) = \log_{4}x$` are inverse functions of each other. (use the fact that  `$f(f^{-1}(x)) = x$` )
+94417, `$y = \log |x|$` and state the domain and range.  Does it have any symmetry?  
+94418," Sketch the following log functions and state it's domain and range.  `$ \displaystyle f(x) = \log(x^2) $`"
+94419," Sketch the following log functions and state it's domain and range.  `$ \displaystyle f(x) = -\log(-(x + 3)) + 2  $`"
+94420," Sketch the following log functions and state it's domain and range.  `$ \displaystyle f(x) = -\log_{4}(-x) $`"
+94421," Sketch the following log functions and state it's domain and range.  `$ \displaystyle f(x) = \log_{3}x + 2 $`"
+94505,Find the maximum value of `$y$` where   `$ \displaystyle y = \frac{3^3}{3^{2x} - 3^x + 1} $`
+94506,Solve for the inequality which satisfies   `$ \displaystyle \begin{cases} (\log_2x)^2  -\log_2x^2  < 0 \\ (\log_2x)^2 -\log_2x -2 \geq 0 \end{cases} $`
+94618,A population grows at the rate of 10% per year. Over what period does it grow by 5%? By 20%?
+94619,"The value of my antique typewriter  increases exponentially, gaining 12% of its value every year. At the moment It' is worth $400 and I plan to sell it when it is worth $500. When will that be?"
+94620,"The value of my car decreases at a constant percentage rate. At the moment its value is $4000 and 4 years ago it was worth $8000. How long ago was It' worth $6000?"
+94621,An exponentially growing population doubles in size every 7 days. What is the daily percentage increase? How long does it take to triple in size? To quadruple?
+94622, An exponentially growing population triple in size in 3 years. How long does it take to double in size? 
+94623,"An exponentially growing population increases in size by 4% every 4 hours. How long does it' take to increase in size by 8%? By 2%? What is the “doubling time"" (the time needed to double in size)? "
+94624,My tire has a slow leak and loses pressure at a constant percentage rate. At noon it has 400 kPa and at 1 pm this has dropped to 360 kPa. At what time will it get to 100 kPa?
+94625,"A battery loses 5% of its' power for every hour of use. It needs to be recharged when its potency has dropped to 1/4 of Its fully charged value. For how many hours can it be used between recharges?"
+94626,"The intensity of a beam of light passing through murky water decays with distance traveled at a constant percentage rate. Suppose a beam loses 20% every meter. Over what distance will its' intensity' be cut by 90%?"
+94627,"(`$\star$`) in my discount warehouse I can sell 50 Tragically Hip disks per week at the regular price of $10, and the number of sales will increase by 8% for every 2% decrease in price. How many will I sell per week if I price them at 20% off?"
+94628,"(`$\star$`) Two sun flowers grow side by side, both increasing in height at a constant percentage rate each day. Sam starts at height 10 cm and has growth rate 5% per day. Coral starts at height 5 cm. After 20 days, Sam and Coral are the same height. What is Coral‘s percentage growth rate?"
+94629,"(`$\star$`) For years I've had an exponentially decaying population quietly eeking out the remains of its' natural life in the hollow trunk of my old oak tree. I remember one frosty Christmas when the trunk decreased by 2% in one week and then by 100 g during the very next week.   Just this morning I went out and found a decrease of 8 g since my last measurement 7 days ago.  How long ago was that frosty Christmas?"
+94630,"(`$\star$`) A warm object immersed in ice water decreases in temperature at a constant percentage rate. Ifit requires one minute to decrease by the first 10 degrees, but needs two minutes for the next 10 degree decrease, what was the starting temperature of the object?"
+94631,"(`$\star$`) A decreases in value at the rate of 10% per year whereas B decreases in value at the rate of 5% per year.  If A starts off twice as big as B, how long until A is half the size of B?  What is the half life of A and B?"
+94632,A store sells 50 CD’S at $10 per CD. The number of sales will increase by 8% for every 2% decrease in price. How many CD‘s per week can the store sell if CD’S are priced 20% off?
+111310,"On average, the number of items, N, per day, on an assembly line, that a quality assurance trainee can inspect is `$N  =4 -24(0.74)^t$`, where t is the number of days worked.  State answers accurate to one decimal place.  a) After how many days of training will the employee be able to inspect 32 items?   b) The company expects an experienced quality assurance employee to inspect 40 items per day. After the training period of 9 days is complete, what percent of the total quota will the trainee be have done compared to the experienced employee in the first 9 days?"
+111311," The intensity of light, I, in lumens, passing through a certain type of glass is given by `$I(x) = I_o(0.97)^x$`, where I is the initial intensity and x is the thickness of the glass,  in centimetres. What thickness of the glass, accurate to one decimal place, will reduce the intensity of light to half its initial value?"
+111312,"The function `$A = P(1.06)^n$` represents the amount, A, in dollars, in an investment `$n$` years from now, where P is the original investment, or principal, in dollars. If Seth invests $1000 now, determine how long it will take to accumulate to  a) $1226.23   b) double his original investment  State answers accurate to one decimal place."
+111321,"The speed, `$v$`, in kilometres per hour, of a water skier who drops the towrope, can be  given by the formula  `$v =v_o(10)^{-0.23t}$`, where v_0 is the skier's  speed at the time she drops the rope, and t is the time, in seconds, after she drops the rope. If the skier drops the rope when travelling at a speed of 65 km/h, how long will it take her, accurate to the nearest second, to slow to a speed of 13 km/h? answers "
+111337,"An investment pays 8% interest, compounded annually.  a) Write an equation that expresses the amount, A, of the investment as a function of time, t, in years.  b) Determine how long it will take for this investment to  * i) double in value  * ii) triple in value  c) Determine the percent increase in value of the account after  * i) 5 years * ii) 10 years "
+111338,"An investment pays 3.5% interest, compounded quarterly.  a) Write an equation to express the amount, `$A$`, of the investment as a function of time, `$t$`, in years.  b) Determine how long it will take for this investment to   * i) double in value. * ii) triple in value"
+111387, Rewrite each expression using the power law.  `$\displaystyle \frac{1}{2}\log_45 $`
+111388, Rewrite each expression using the power law.  `$\displaystyle \log_69^3 $`
+111389, Rewrite each expression using the power law.  `$\displaystyle \frac{1}{5}\log_818 $`
+111390, Rewrite each expression using the power law.  `$\displaystyle \log_2(7^{-5}) $`
+111391, Rewrite each expression using the power law.  `$\displaystyle \log_6\sqrt{22} $`
+111392, Rewrite each expression using the power law.  `$\displaystyle \log_9(\frac{1}{\sqrt{13}}) $`
+111393,Express as a single logarithm.  `$\displaystyle \log_35 + \log_3 8 + \log_315 $`
+111394,Express as a single logarithm.  `$\displaystyle \log_48-\log_410 + \log_43 $`
+111395,Express as a single logarithm.  `$\displaystyle \log_219+\log_24 -\log_231 $`
+111396,Express as a single logarithm.  `$\displaystyle \frac{1}{2}\log 17 -\log 5 $`
+111397,Express as a single logarithm.  `$\displaystyle \log(a+b) + \log a^3 $`
+111398,Express as a single logarithm.  `$\displaystyle \log(x+ y)- \log(x-y) $`
+111399,Express as a single logarithm.  `$\displaystyle 4\log x - 3\log y $`
+111400,Express as a single logarithm.  `$\displaystyle \log_3(ab)+ \log_3(bc) $`
+111401,Expand the log as much as possible.  `$\displaystyle \log_7(5x) $`
+111402,Expand the log as much as possible.  `$\displaystyle \log_2(m^3n^2) $`
+111403,Expand the log as much as possible.  `$\displaystyle \log_3(abc) $`
+111404,Expand the log as much as possible.  `$\displaystyle \log_9(\sqrt[3]{y^2 + y}) $`
+111405,Expand the log as much as possible.  `$\displaystyle \log_8(\frac{\sqrt[4]{m}}{n}) $`
+111406,Expand the log as much as possible.  `$\displaystyle \log_6[(xy)^5] $`
+111407,Expand the log as much as possible.  `$\displaystyle \log_4(\frac{a^2b}{\sqrt{c}}) $`
+111408,Expand the log as much as possible.  `$\displaystyle \log_3(\frac{1}{\sqrt{jk}}) $`
+111409,Evaluate without using a calculator.  `$\displaystyle \log_832 + \log_82 $`
+111410,Evaluate without using a calculator.  `$\displaystyle \log_272-\log_29 $`
+111411,Evaluate without using a calculator.  `$\displaystyle \log_4192 - \log_43 $`
+111412,Evaluate without using a calculator.  `$\displaystyle \log_{12}9 + \log_{12}16 $`
+111413,Evaluate without using a calculator.  `$\displaystyle \log_85 - \log_83 + \log_84 $`
+111414,Evaluate without using a calculator.  `$\displaystyle \log_3108 -\log_34 $`
+111415,Evaluate without using a calculator.  `$\displaystyle \log_86- \log_83 + \log_84 $` 
+111416,Evaluate without using a calculator.  `$\displaystyle \log_280-\log_25 $` 
+111417,Evaluate without using a calculator.  `$\displaystyle \log(\frac{5}{4}) + \log 80 $` 
+111418,Evaluate without using a calculator.  `$\displaystyle \log_28^{27} $` 
+182923, #95277  Which function generates the table of values at the right?   F) `$\displaystyle y=\log _{\frac{1}{2}} x $`   (G) `$\displaystyle y=-\log _{2} x $`  (A) `$\displaystyle y=\log _{2} x $`  (1) `$\displaystyle y=\left(\frac{1}{2}\right)^{x} $` #95278  `$\displaystyle x $` & `$\displaystyle y $` `$\displaystyle \frac{1}{2} $` & `$\displaystyle -1 $` 1 & 0 2 & 1 4 & 2
+182932,Evaluate each logarithm. `$\displaystyle \log _{16} 8 $`
+224802," If `$\displaystyle \log 4 \approx 0.60205 $` and `$\displaystyle \log 5 \approx 0.69897 $`, what is the approximate value of `$\displaystyle \log 80 $` ?   `$\displaystyle \begin{array}{ll}\text { A } 0.2534 & \text { C } 1.903 \ \text { (B) } 0.2914 & \text { D } 11.1835\end{array} $`"
+226255, Solve each equation.  `$\displaystyle \ln 4+\ln x=5 $` 
+226256,Solve each equation.  `$\displaystyle \ln x-\ln 3=4 $` 
+226257,Solve each equation.  `$\displaystyle 2 \ln x+3 \ln 4=4 $` 
+254514,"In chemistry, `$\displaystyle \mathrm{pH}=-\log \left[\mathrm{H}^{+}\right] $`, where `$\displaystyle \left[\mathrm{H}^{+}\right] $` is the hydrogen ion concentration of `$\displaystyle a $` solution in moles per liter. What is `$\displaystyle \left[\mathrm{H}^{+}\right] $` of a carbonated soda if its `$\displaystyle \mathrm{pH} $` is `$\displaystyle 1.5 $` ? (F) `$\displaystyle 10^{-1.5} $`  (G) `$\displaystyle 10^{1.5} $`  (H) `$\displaystyle -\log 1.5 $`  (1) `$\displaystyle -\log (-1.5) $`   "
+254521, Which function represents the graph of `$\displaystyle f(x)=\ln x $` translated 2 units right and 5 units up? (F) `$\displaystyle g(x)=\ln (x+2)-5 $`  (G) `$\displaystyle g(x)=\ln (x+5)-2 $`  (H) `$\displaystyle g(x)=\ln (x-2)+5 $`  (1) `$\displaystyle g(x)=\ln (x-5)+2 $`  
+256802, Which equation is equivalent to `$\displaystyle 12^{-x}=24 ? $` (A) `$\displaystyle \log _{24} 12=x $`  (C) `$\displaystyle \log _{12} 24=-x $`  (B) `$\displaystyle \log _{x} 24=12 $`  (D) `$\displaystyle \log _{-x} 12=24 $`   
+256821, What value of `$\displaystyle x $` makes the equation `$\displaystyle 3=1+\log (2 x) $` true? #101244 
+266910,Evaluate by using mental math.  `$\displaystyle \log 0.01 $` 
+266911,Evaluate by using mental math.  `$\displaystyle \log _{2} 1 $` 
+266913, Express as a single logarithm and simplify.  `$\displaystyle \log _{2} 8+\log _{2} 16 $` 
+266914,"Express as a single logarithm and simplify.  `$\displaystyle \log 100+\log 10,000 $` "
+266915,Express as a single logarithm and simplify.  `$\displaystyle \log _{2} 128-\log _{2} 2 $` 
+266916,Express as a single logarithm and simplify.  `$\displaystyle \log 10-\log 0.1 $` 
+266917,Express as a single logarithm and simplify.  `$\displaystyle \log _{5} 25^{2} $` 
+266918,Express as a single logarithm and simplify.  `$\displaystyle \log 10^{5}+\log 10^{4} $` 
+266922,Solve and check.  `$\displaystyle \log x^{\frac{5}{2}} > 2.5 $` 
+266949, Simplify.  `$\displaystyle \log _{4} 128-\log _{4} 8 $` 
+266950,Simplify.  `$\displaystyle \log _{2} 12.8+\log _{2} 5 $` 
+266951,Simplify.  `$\displaystyle \log _{3} 243^{2} $` 
+266952,Simplify.  `$\displaystyle 5^{\log _{5} x} $` 
+267202, Graph each logarithmic function. Find the asymptote. Then describe how the graph is transformed from the graph of its parent function. (Lesson 7-7)  `$\displaystyle g(x)=2 \log (x-1) $` 
+267203,Graph each logarithmic function. Find the asymptote. Then describe how the graph is transformed from the graph of its parent function. (Lesson 7-7)  `$\displaystyle h(x)=\log (x+4) $` 
