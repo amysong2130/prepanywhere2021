@@ -1,0 +1,75 @@
+id,question
+150094,Find each value. Write angle measures in degrees and radians.  `$\displaystyle \operatorname{Tan}^{-1} \sqrt{3} $`  
+150080,Find each value. Write angle measures in degrees and radians.  `$\displaystyle \operatorname{Sin}^{-1} \frac{1}{2} $`  
+150081,Find each value. Write angle measures in degrees and radians.  `$\displaystyle \operatorname{Arctan}(-\sqrt{3}) $`  
+150082,Find each value. Write angle measures in degrees and radians.  `$\displaystyle \operatorname{Arccos}(-1) $`  
+150083,Find each value. Round to the nearest hundredth if necessary.  `$\displaystyle \cos \left(\operatorname{Arcsin} \frac{4}{5}\right) $`  
+150084,Find each value. Round to the nearest hundredth if necessary.  `$\displaystyle \tan \left(\operatorname{Cos}^{-1} 1\right) $`  
+150085,Find each value. Round to the nearest hundredth if necessary.  `$\displaystyle \sin \left(\sin ^{-1} \frac{\sqrt{3}}{2}\right) $`  
+150086,"If `$\displaystyle \operatorname{Sin} \theta=0.422 $`, find `$\displaystyle \theta $`.  `$\displaystyle \begin{array}{llll}\text { A } 25^{\circ} & \text { B } 42^{\circ} & \text { C } 48^{\circ} & \text { D } 65^{\circ}\end{array} $`  "
+150087,Solve each equation. Round to the nearest tenth if necessary.  `$\displaystyle \operatorname{Cos} \theta=0.9 $`  
+150088,Solve each equation. Round to the nearest tenth if necessary.  `$\displaystyle \sin \theta=-0.46 $`  
+150089,Solve each equation. Round to the nearest tenth if necessary.   `$\displaystyle \operatorname{Tan} \theta=2.1 $`  
+150090,"A cross section of a superpipe for snowboarders is shown at the right. Write an inverse trigonometric function that can be used to find `$\displaystyle \theta $`, the angle that describes the steepness of the superpipe. Then find the angle to the nearest degree. "
+150091,Find each value. Write angle measures in degrees and radians.  `$\displaystyle \operatorname{Arcsin}\left(\frac{\sqrt{3}}{2}\right) $`  
+150092,Find each value. Write angle measures in degrees and radians.  `$\displaystyle \operatorname{Arccos}\left(\frac{\sqrt{3}}{2}\right) $`  
+150093,Find each value. Write angle measures in degrees and radians.  `$\displaystyle \operatorname{Sin}^{-1}(-1) $`  
+150095,Find each value. Write angle measures in degrees and radians.  `$\displaystyle \cos ^{-1}\left(-\frac{\sqrt{3}}{2}\right) $`  
+150096,Find each value. Write angle measures in degrees and radians.  `$\displaystyle \operatorname{Arctan}\left(-\frac{\sqrt{3}}{3}\right) $`  
+150097,Find each value. Round to the nearest hundredth if necessary.  `$\displaystyle \tan \left(\operatorname{Cos}^{-1} 1\right) $`  
+150098,Find each value. Round to the nearest hundredth if necessary.  `$\displaystyle \tan \left[\operatorname{Arcsin}\left(-\frac{1}{2}\right)\right] $`  
+150099,Find each value. Round to the nearest hundredth if necessary.  `$\displaystyle \cos \left(\operatorname{Tan}^{-1} \frac{3}{5}\right) $`  
+150100,Find each value. Round to the nearest hundredth if necessary.  `$\displaystyle \sin (\operatorname{Arctan} \sqrt{3}) $`   
+150101,Find each value. Round to the nearest hundredth if necessary.  `$\displaystyle \cos \left(\sin ^{-1} \frac{4}{9}\right) $` 
+150102,Find each value. Round to the nearest hundredth if necessary.  `$\displaystyle \sin \left[\operatorname{Cos}^{-1}\left(-\frac{\sqrt{2}}{2}\right)\right] $`  
+150103,Solve each equation. Round to the nearest tenth if necessary.  `$\displaystyle \operatorname{Tan} \theta=3.8 $`  
+150104,Solve each equation. Round to the nearest tenth if necessary.  `$\displaystyle \sin \theta=0.9 $`  
+150125,Explain how `$\displaystyle \operatorname{Sin}^{-1} 8 $` and `$\displaystyle \operatorname{Cos}^{-1} 8 $` are undefined while Tan `$\displaystyle ^{-1} 8 $` is defined.  
+80915," Find the exact value each expression, if it's defined.  `$ \displaystyle \begin{array}{cccccc} &(a)& \sin^{-1} \frac{1}{2}			& (b)& \cos^{-1} \frac{1}{2}		&(c)& \cos^{-1} 2  \\ 		&(d)  &  \sin^{-1} \frac{\sqrt{3}}{2}		& (e)&\cos^{-1} \frac{\sqrt{2}}{2}			& (f)& \sin^{-1} (-\frac{\sqrt{2}}{2}) \\ \end{array} $`"
+80914,"  Find the exact value each expression, if it's defined.  `$ \displaystyle \begin{array}{cccc} 		&(a) & \sin^{-1} 1				& (b)& \tan^{-1} \frac{\sqrt{3}}{3}		& (c)& \cos^{-1} 0 	\end{array} $` 	"
+80913,"  Find the exact value each expression, if it's defined.  `$ \displaystyle  \sin(\sin^{-1} \frac{1}{4}) $`"
+80912,"  Find the exact value each expression, if it's defined.  `$ \displaystyle  \tan^{-1} (\tan 5) $`"
+80911,"  Find the exact value each expression, if it's defined.  `$ \displaystyle \cos^{-1} (\cos 0) $`"
+80910,"  Find the exact value each expression, if it's defined.  `$ \displaystyle  \sin^{-1}(\sin(-\frac{\pi}{6} ))	 $`"
+80909,"  Find the exact value each expression, if it's defined.  `$ \displaystyle \tan (\sin^{-1} \frac{1}{2}) $`"
+80908,"  Find the exact value each expression, if it's defined.  `$ \displaystyle \cos (\sin^{-1} \frac{\sqrt{3}}{2}) $`"
+80907,"Find the exact value each expression, if it's defined.  `$ \displaystyle  \tan^{-1}(2 \sin \frac{\pi}{3} )	 $`"
+80906,"Find the exact value each expression, if it's defined.  `$ \displaystyle  \cos^{-1}(\sqrt{3} \sin \frac{\pi}{6}) $`"
+80905,"Find the exact value each expression, if it's defined.  `$ \displaystyle \sin( \cos^{-1}( \frac{3}{5} )	) $`"
+80904,"Find the exact value each expression, if it's defined.  `$ \displaystyle   \tan( \sin^{-1} \frac{4}{5}) ) $`"
+80903,"Find the exact value each expression, if it's defined.  `$ \displaystyle \sec( \sin^{-1}( \frac{12}{13} )) $`"
+80902,"Find the exact value each expression, if it's defined.  `$ \displaystyle  \cot( \sin^{-1} \frac{2}{3} )) $`"
+80901,  Evaluate the expression by sketching a triangle.  `$ \displaystyle \sin^{-1} (\frac{\sqrt{3}}{2}	)	 $`
+80900,  Evaluate the expression by sketching a triangle.  `$ \displaystyle   \cos^{-1}(-1) $`
+80899,  Evaluate the expression by sketching a triangle.  `$ \displaystyle \arctan(-1) $`
+80898,  Evaluate the expression by sketching a triangle.  `$ \displaystyle  \csc^{-1}(2)  $`
+80897,  Evaluate the expression by sketching a triangle.  `$ \displaystyle \sec^{-1}(\sqrt{2}) $`
+80896,  Evaluate the expression by sketching a triangle.  `$ \displaystyle \sin(\sin^{-1} 0.7) $`
+80895,  Evaluate the expression by sketching a triangle.  `$ \displaystyle \sec(\arctan 2	) $`
+80894,  Evaluate the expression by sketching a triangle.  `$ \displaystyle \cos(2 \sin^{-1}(\frac{5}{13}))  $`
+80893,Rewrite the expression as an algebraic expression of x only without trig ratios.  `$ \displaystyle  \sin( \tan^{-1} x)	 $`
+80892,Rewrite the expression as an algebraic expression of x only without trig ratios.  `$ \displaystyle  \cos ( \tan^{-1} x ) $`
+80891,Rewrite the expression as an algebraic expression of x only without trig ratios.  `$ \displaystyle \cos( 2 \tan^{-1}x )  $`
+80890,Rewrite the expression as an algebraic expression of x only without trig ratios.  `$ \displaystyle \sin ( 2\sin^{-1} x ) $`
+80889,Rewrite the expression as an algebraic expression of x only without trig ratios.  `$ \displaystyle   \cos(  \cos^{-1}x + \sin^{-1}x ) 	  $`
+80888,Rewrite the expression as an algebraic expression of x only without trig ratios.  `$ \displaystyle \sin ( \tan^{-1} x - \sin^{-1}x ) $`
+80887,"Rewrite the expression as an algebraic expression of x only, without trig ratios.  `$ \displaystyle \sec( \tan^{-1} x) $`"
+80886,"Rewrite the expression as an algebraic expression of x only, without trig ratios.  `$ \displaystyle  \csc ( \tan^{-1} x ) $`"
+80885,"Rewrite the expression as an algebraic expression of x only, without trig ratios.  `$ \displaystyle  \csc ( 2 \tan^{-1}x )  $`"
+80884,"Rewrite the expression as an algebraic expression of x only, without trig ratios.  `$ \displaystyle  \sec ( 2\sin^{-1} x ) $`"
+80883,"Rewrite the expression as an algebraic expression of x only, without trig ratios.  `$ \displaystyle  \sec (  \cos^{-1}x + \sin^{-1}x ) 	 $`"
+80881,"Rewrite the expression as an algebraic expression of x only, without trig ratios.  `$ \displaystyle \csc ( \tan^{-1} x - \sin^{-1}x ) $`"
+,
+80880,Find the domain and range of the function   `$ \displaystyle 	g(x)  = \sin^{-1}(3x + 1) $` 	
+80925,Introduction to Inverse Trig Functions
+80924,Evaluating Sine Inverse Trig Angles
+80923,Cosine Inverse Trig Function
+80922,Evaluating Cosine Inverse Trig Angles
+80921,Tangent Inverse Function
+80920,Evaluating Inverse Tangent Angles
+80919,Composition of Trig and inverse ex1
+80918,Simplifying the Expression of Composition of Trig Inverse with Trig Function ex2
+80917,Simplifying the Expression of Composition of Trig Inverse with Trig Function ex3
+80916,Simplifying the Expression of Composition of Trig Inverse with Trig Function ex4
+48588,"Consider the equation `$\sin^{-1}(sinx)=x$` on the interval `$x\in[0,1]$`.		 		          Is the equation true for any value of `$x$` such that `$x\in\mathbb{R}$` Justify your answer."
+48589,"Determine an exact value for `$\displaystyle{\sin\left[\cos^{-1}\left(\frac{4}{5}\right)\right]}$` if `$\displaystyle{x\in\left[0, \frac{\pi}{2}\right]}$`.	 	"
