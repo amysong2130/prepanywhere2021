@@ -6,7 +6,7 @@ file = open('e.csv')
 
 text = file.read()
 
-pattern = '\\\?e(xp)?\^?[\(\{]?(\w)+'
+pattern = '\\\?e((xp)|\^)[\(\{]?(\w)+'
 
 #to print number of occurences
 print('occurence of exp:', len(re.findall(pattern,text))) 
@@ -16,7 +16,7 @@ for match in re.finditer(pattern,text):
     print(match)
 
 ##regex pattern
-#\\?e(xp)?\^?[\(\{]?(\w)+
+#\\?e((xp)|\^)[\(\{]?(\w)+
 
 
 ##tests for regex
