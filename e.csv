@@ -1,0 +1,15 @@
+id,question
+81724,**(a)** How is the number `$e$` defined?  **(b)** Use a calculator to estimate the values of the limits  `$ \displaystyle \begin{array}{ccccc}  & \lim_{h \to 0} \frac{2.7^h-1}{h}	& and &  \lim_{h \to 0} \frac{2.8^h-1}{h} \\ \end{array} $`  correct to two decimal places.   What can you conclude about the value of e?
+81719,"Sketch, by hand, the graph of the function `$f(x) = e^x$`, paying particular attention to how the graph crosses the y-axis. What fact allows you to do this?"
+81718,**(i)** What types of functions are `$f(x) = e^x$` and `$g(x) = x^e$`?    Compare the differentiation formulas for `$f$` and `$g$`.  **(ii)** Which of the two functions in part(b) grows more rapidly when x is large?
+81712,Differentiate the function.  `$ \displaystyle k(r) = e^r + r^e $`
+81702,Differentiate the function.  `$ \displaystyle z  = \frac{A}{y^{10}} + Be^y $`
+81711,Differentiate the function.  `$ \displaystyle y = e^{x + 1} + 1 $`
+81710,"Find equations of the tangent line and normal line to the curve at the given point.  `$y = x^4 + 3e^x, (0, 2)$`"
+81750,"Find the  first and second derivatives of the function. Check to see that your answers are reasonable by comparing the graphs of `$f'$` , `$f''$`, and `$f'''$`.  `$ \displaystyle f(x) = e^x - x^{3} $`"
+81756,For what value of `$x$` does the graph of `$f(x) = e^x - 2x$` have a horizontal tangent?
+81757,Show that the curve `$y = 2e^x + 3x + 5x^3$` has no tangent line with slope 2.
+75013, Differentiate the function.  `$ \displaystyle f(x) = 2e^x $` 
+75012, Differentiate the function.  `$ \displaystyle F(x) = e^{x + 1} + 1 $` 
+75010, Differentiate the function.  `$ \displaystyle y = x^2 + 2e^x $` 
+90841,Determine the derivative.  `$ \displaystyle y = xe^x $`
