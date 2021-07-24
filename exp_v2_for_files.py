@@ -14,6 +14,8 @@ print('occurence of exp:', len(re.findall(pattern,text)))
 #to print all matches
 for match in re.finditer(pattern,text):
     print(match)
+    
+file.close()
 
 ##regex pattern
 #\\?e((xp)|\^)[\(\{]?(\w)+
