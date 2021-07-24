@@ -1,0 +1,178 @@
+id,question
+57473,"Evaluate each limit, if it exists.   `$ \displaystyle \lim_{x\to -4} \frac{3x^2 + 11x -4}{x^2 + 3x - 4} $` "
+57474,"Evaluate each limit, if it exists.  `$ \displaystyle \lim_{x\to 3} \frac{2x^2-5x  -3}{x^2 -x - 6} $`"
+57475,"Evaluate each limit, if it exists.  `$ \displaystyle \lim_{x\to -5} \frac{x^2 + 4x - 5}{25-x^2} $`"
+57476,"Evaluate each limit, if it exists.  `$ \displaystyle \lim_{x\to 0} \frac{-2x}{x^2 -4x} $`"
+57477,"Evaluate each limit, if it exists.  `$ \displaystyle \lim_{x\to -3}\frac{x^2- 9}{x + 3} $`"
+57479,"Evaluate each limit, if it exists.  `$ \displaystyle \lim_{x\to -2} \frac{x^2 -4}{x + 2} $`"
+57480,"Evaluate each limit, if it exists.  `$ \displaystyle \lim_{x\to 0} \frac{\sqrt{3 -x}- \sqrt{3 + x}}{x} $` "
+57481,"Evaluate each limit, if it exists.  `$ \displaystyle \lim_{x\to 0} \frac{\sqrt{1 - x}  -1}{3x} $`"
+57482,"Evaluate each limit, if it exists.  `$ \displaystyle \lim_{x\to 4}\frac{x-4}{\sqrt{x} -2} $`"
+57483,"Evaluate each limit, if it exists.  `$ \displaystyle \lim_{x\to 25}\frac{5 -\sqrt{x}}{x - 25} $`"
+57484,"Evaluate each limit, if it exists.  `$ \displaystyle \lim_{x\to 0} \frac{\sqrt{9 + x}- 3}{x } $` "
+57485,"Evaluate each limit, if it exists.  `$ \displaystyle \lim_{x\to 1} \frac{x^2 -1}{-x^2-3x + 3} $`"
+57486,"Evaluate each limit, if it exists.  `$ \displaystyle \lim_{x\to -2} \frac{x^4 - 16}{x + 2} $`"
+57487,"Evaluate each limit, if it exists.  `$ \displaystyle \lim_{x\to 3} \frac{\frac{1}{3} - \frac{1}{x}}{x - 3} $` "
+57488,"Evaluate each limit, if it exists.  `$ \displaystyle \lim_{x\to 2}\frac{49 -(5 + x)^2}{x - 2} $`"
+57489,"Evaluate each limit, if it exists.  `$ \displaystyle \lim_{x\to 6}\frac{(3- x)^2- 9}{x - 6} $`"
+57507,`$\displaystyle \lim_{x\to 2} \frac{6x^3 - 13x^2 + x + 2}{x - 2}$`
+57508,`$\displaystyle \lim_{x\to 2} \frac{x^5- 32}{x  -2}$`
+57509, `$\displaystyle \lim_{x\to 8} \frac{2- \sqrt[3]{x}}{8 - x}$`
+58737,"Determine the real values of `$a, b$`, and `$c$` for the quadratic function `$f(x) = ax^2  +bx + c, a\neq 0$`, that satisfy  the conditions `$\displaystyle f(0) = 0, \lim_{x\to1}f(x) =5$`, and `$\displaystyle \lim_{x\to -2}f(x) = 8.$`"
+58738,"Let `$f(x) = mx + b$`, where `$m$` and `$b$` are constants.  If `$\displaystyle \lim_{x\to 1}f(x) = -2$` and `$\displaystyle \lim_{x \to -1}f(x)=4$`, find `$m$` and `$b$`."
+58746,"Evaluate each limit.  If the limit dos not exist, explain why.  `$ \displaystyle \lim_{x\to 3^-}(x^2-4) $` "
+58747,"Evaluate each limit.  If the limit dos not exist, explain why.  `$ \displaystyle \lim_{x\to 2^-}(x^2 - 4) $` "
+58748,"Evaluate each limit.  If the limit dos not exist, explain why.  `$ \displaystyle \lim_{x\to 0^+}x^4 $` "
+58749,Find `$\displaystyle \lim_{x\to 2}(x^2 + 1)$`.
+58750,Evaluate each limit.  `$ \displaystyle \lim_{x\to -1}(9 -x^2) $` 
+58751,"Use the graph to find the limit, if it exits.    `$\displaystyle \lim_{x\to 2}f(x) $`    #32"
+58755,Calculate each limit.  `$ \displaystyle \lim_{x\to 3}2^x $`
+58756,Calculate each limit.  `$ \displaystyle \lim_{x\to -2}(4 -3x^2) $`
+58757,Calculate each limit.  `$ \displaystyle \lim_{x\to 3}(x + 7) $`
+58758,Calculate each limit.  `$ \displaystyle \lim_{x\to 10}x^2 $`
+58764,Evaluate each limit.  `$ \displaystyle \lim_{x\to 5}\sqrt{x - 1} $` 
+58765,Evaluate each limit.  `$ \displaystyle \lim_{x\to 0}\sqrt{\frac{x + 20}{2x + 5}} $` 
+58766,Calculate each limit.  `$ \displaystyle \lim_{x\to1}4 $`
+58767,"What do you think is the appropriate limit of the sequence?  3, 3.1, 3.14, 3.141, 3.1415, 3.14159, 3.141592, ..."
+58768,"What do you think is the appropriate limit of each sequence?  0.7, 0.72, 0.727, 0.7272, ..."
+58769,Calculate each limit.  `$ \displaystyle \lim_{x\to -5}x $`
+59618,"Evaluate each limit, if it exists.   Show steps for full marks.  `$ \displaystyle \lim_{x\to 4}\frac{\frac{3}{x-7} + \frac{x}{4}}{x- 4}  $`"
+59619,"Evaluate each limit, if it exists.   Show steps for full marks.  `$ \displaystyle \lim_{x\to 3}\frac{x^3-2x^2 -9x + 18}{x- 3} $` "
+70032,Explain why the given limit does not exist.		  `$\displaystyle \lim_{x\to 2} \displaystyle\frac{x^2-4}{x^2-4x+4}$`
+70036,"Evaluate each limit using one of the algebraic methods discussed in this chapter, if the limit exists.		  `$\lim\limits_{x\to 2} \displaystyle\frac{x^2-4}{x^3-8}$`"
+70037,"Evaluate the limit, if the limit exists.		  `$\lim\limits_{x\to 0} \displaystyle\frac{\sqrt{x+5}-\sqrt{5-x}}{x}$`"
+70038,"Evaluate the limit, if the limit exists.		  `$\lim\limits_{x\to a} \displaystyle\frac{(x+4a)^2-25a^2}{x-a}$`"
+70039,"Evaluate the limit, if the limit exists.		  `$\lim\limits_{x\to -4} \displaystyle\frac{x^2+12x+32}{x+4}$`"
+70041,Evaluate the limit of each difference quotient. Interpret the limit as the slope of the tangent to a curve at a specific point.		  `$\lim\limits_{h\to 0}\displaystyle\frac{\sqrt{4+h}-2}{h}$`
+70042,Evaluate the limit of each difference quotient. Interpret the limit as the slope of the tangent to a curve at a specific point.		  `$\lim\limits_{h\to 0}\displaystyle\frac{(5+h)^2-25}{h}$`
+74894,Evaluate   `$ \displaystyle \lim_{x\to 0}\frac{\sqrt{x + 1} - \sqrt{2x +1}}{\sqrt{3x  +4} - \sqrt{2x + 4}} $`
+74895,"If `$\displaystyle \lim_{x\to 0}\displaystyle{\frac{f(x)}{x}}  =1$` and `$\displaystyle \lim_{x\to 0} \displaystyle{\frac{g(x)}{x}} = 2$`,  then evaluate each limit.  `$ \displaystyle \lim_{x \to 0} \frac{f(x)}{g(x)} $`"
+74896,"If `$\displaystyle \lim_{x\to 0}\displaystyle{\frac{f(x)}{x}}  =1$` and `$\displaystyle \lim_{x\to 0} \displaystyle{\frac{g(x)}{x}} = 2$`,  then evaluate each limit.  `$\displaystyle \lim_{x \to 0} g(x)$`"
+74897,"If `$\lim_{x\to 0}\displaystyle{\frac{f(x)}{x}}  =1$` and `$\lim_{x\to 0}g(x)$` exists and is nonzero, then evaluate each limit.  ` $\displaystyle \lim_{x \to 0} \frac{f(x)}{g(x)}$`"
+74898,"If `$\lim_{x\to 0}\displaystyle{\frac{f(x)}{x}}  =1$` and `$\lim_{x\to 0}g(x)$` exists and is nonzero, then evaluate each limit.  `$\displaystyle \lim_{x \to 0} f(x)$`"
+74899,"If `$\lim_{x\to 4}f(x)  =3$`, use the properties of limits to evaluate each limit.  `$\displaystyle \lim_{x \to 4} \sqrt{3f(x) - 2x}$`"
+74900,"If `$\lim_{x\to 4}f(x)  =3$`, use the properties of limits to evaluate each limit.  `$\displaystyle \lim_{x \to 4} \frac{[f(x)]^2-x^2}{f(x) + x}$`"
+74901,"If `$\lim_{x\to 4}f(x)  =3$`, use the properties of limits to evaluate each limit.  `$\displaystyle \lim_{x \to 4} [f(x)]^3$`"
+74902,"Show, using the properties of limits, that if `$\lim_{x\to 5}f(x)  = 3$`, then `$\lim_{x\to 5}\displaystyle{\frac{x^2- 4}{f(x)}} = 7$`."
+74907,"Evaluate the limit, if it exists, using any appropriate technique.  `$\displaystyle \lim_{x \to 1}  [ (\frac{1}{x-1})(\frac{1}{x + 3} - \frac{2}{3x + 5})] $`"
+74908,"Evaluate the limit, if it exists, using any appropriate technique.   `$\displaystyle \lim_{h \to 0} \frac{(x + h)^2 -x^2}{h}$`"
+74909,"Evaluate the limit, if it exists, using any appropriate technique.  `$\displaystyle \lim_{x \to 0} \frac{\sqrt{x+ 1} - 1}{x}$`"
+74910,"Evaluate the limit, if it exists, using any appropriate technique.  `$\displaystyle \lim_{x \to -1} \frac{x^2 + x}{x + 1}$`"
+74911,"Evaluate the limit, if it exists, using any appropriate technique.  `$\displaystyle \lim_{x \to 4} \frac{x^2 -16}{x^2-5x + 6}$`"
+74912,"Evaluate the limit, if it exists, using any appropriate technique.  `$\displaystyle \lim_{x \to 4} \frac{16-x^2}{x^3 + 64}$`"
+74913,Evaluate the limit by using a change of variable.  `$\displaystyle \lim_{x\to 0} \frac{(x  +8)^{\frac{1}{3}}-2}{x}$`
+74914,Evaluate the limit by using a change of variable.  `$\displaystyle \lim_{x\to 4} \frac{\sqrt{x} -2}{\sqrt{x^3} - 8}$`
+74915,Evaluate the limit by using a change of variable.  `$\displaystyle \lim_{x\to 1} \frac{x^{\frac{1}{6}}-1}{x^{\frac{1}{3}} - 1}$`
+74916,Evaluate the limit by using a change of variable.  `$\displaystyle \lim_{x\to 1} \frac{x^{\frac{1}{6}}-1}{x - 1}$`
+74917,Evaluate the limit by using a change of variable.   `$\displaystyle \lim_{x\to 27} \frac{27 - x}{x^{\frac{1}{3}} -3}$`
+74918,Evaluate the limit by using a change of variable.  `$\displaystyle \lim_{x\to 8} \frac{\sqrt[3]{x} - 2}{x -  8}$`
+74919,Evaluate the limit of each indeterminate quotient.  `$\displaystyle \lim_{x \to 0} \frac{\sqrt{7-x} - \sqrt{7 + x}}{x}$`
+74920,Evaluate the limit of each indeterminate quotient.  `$\displaystyle \lim_{x \to 4} \frac{\sqrt{x}- 2}{x - 4}$`
+74921,Evaluate the limit of each indeterminate quotient.   `$\displaystyle \lim_{x \to 0} \frac{2 -\sqrt{4 + x}}{x}$`
+74922,Evaluate the limit of each indeterminate quotient.  `$\displaystyle \lim_{x \to 3} \frac{x^3-27}{x -3}$`
+74923,Evaluate the limit of each indeterminate quotient.   `$\displaystyle \lim_{x \to -1} \frac{2x^2+5x + 3}{x + 1}$`
+74924,Evaluate the limit of each indeterminate quotient.  `$\displaystyle \lim_{x \to 2} \frac{4- x^2}{2- x}$`
+74925,Evaluate each limit.  `$\phantom{+} \lim_{x\to -3} \sqrt{ \displaystyle{\frac{x -3}{2x + 4}}}$`
+74926,Evaluate each limit.  `$ \displaystyle  \lim_{x\to 2\pi}(x^3+\pi^2x-5\pi^3) $` 
+74927,Evaluate each limit.  `$ \displaystyle \lim_{x \to 9} (\sqrt{x} + \displaystyle{\frac{1}{ \sqrt{x} }})^2 $`  
+74928,Evaluate each limit.  `$\displaystyle  \lim_{x\to 2} \displaystyle{\frac{3x}{x^2  +2}}$`
+74930,Evaluate each limit.   `$\phantom{+} \lim_{x\to 0}(\sqrt{3+\sqrt{1 + x}})$`
+74931,Evaluate each limit.  `$\phantom{+}\lim_{x\to-1} (x^4+x^3 + x^2)$`
+74932,Show that `$\displaystyle \lim_{t\to 1} \frac{t^3-t^2-5t}{6-t^2} =  -1$`
+74933,"Are there different answers for  `$ \displaystyle \lim_{x\to 2} (3 + x) $`,  `$ \displaystyle \lim_{x\to 2} 3 + x $` and  `$ \displaystyle \lim_{x\to 2}(x + 3) $`?"
+74984,Evaluate   `$\displaystyle\lim_{x \to 2} \frac{\sqrt{6 - x} - 2}{\sqrt{3 - x} - 1}$` 
+74985, Evaluate the limits.  `$\displaystyle \lim_{x \to 2}\frac{\frac{1}{x} - \frac{1}{2}}{x - 2}$` 
+74986, Evaluate the limits.  `$\displaystyle  \lim_{h \to 0}\frac{(3 + h)^{-1} - 3^{-1}}{h}$`   [HINT](https://youtu.be/wZzZlCdCD7E)
+74987,Evaluate the limit by using the limit laws.  `$\displaystyle  \lim_{t \to 0}[ \frac{1}{t\sqrt{1 + t}} - \frac{1}{t}]$` 
+74988,Evaluate the limit by using the limit laws.  `$\displaystyle   \lim_{x \to 9}\frac{x^2 - 81}{\sqrt{x}  - 3}$` 
+74989,Evaluate the limit by using the limit laws.  `$\displaystyle  \lim_{x \to 1}\frac{\sqrt{x} - x^2}{1 - \sqrt{x}}$` 
+74990,Evaluate the limit by using the limit laws.  `$\displaystyle  \lim_{t \to 0}\frac{\sqrt{2 - t} - \sqrt{2}}{t}$` 
+74991,Evaluate the limit by using the limit laws.  `$\displaystyle  \lim_{h \to 0}\frac{(2 + h)^3 - 8}{h}$` 
+74992,Evaluate the limit by using the limit laws.  `$\displaystyle \lim_{x \to 1}\frac{x^3 - 1}{x^2 - 1}$`  
+74993,Evaluate the limit by using the limit laws.  `$\displaystyle \lim_{h \to 0}\frac{(1 + h)^4 - 1}{h}$`  
+74994, Evaluate the limit by using the limit laws.   `$\displaystyle \lim_{h \to 0}\frac{(h - 5)^2 - 25}{h}	$`  
+74995,Evaluate the limit by using the limit laws.   `$\lim_{x \to 1}\frac{x^2 + x - 2}{x^2 - 3x + 2}	$` 
+74996,Evaluate the limit by using the limit laws.   `$\displaystyle \lim_{x \to -2}\frac{x + 2}{x^2 - x - 6}$`  
+74999,Evaluate the limit and justify each step by indicating the appropriate Limit Law(s). `$\displaystyle  \lim_{x \to 2} \frac{2x^2 + 1}{x^2 + 6x - 3}$` 
+75000,Evaluate the limit and justify each step by indicating the appropriate Limit Law(s).  `$\displaystyle  \lim_{x \to -2} (3x^4 + 2x^2  + 1)$` 
+75001," Is there a number `$a$` such that `$\displaystyle  \lim_{x \to -2} \frac{3x^2 + ax + a + 3}{x^2 + x - 2}$` exists? 	  If so, find the value of `$a$` and the value of the limit."
+75361,"Guess the value of the limit (if it exists) by evaluating the function at the given numbers (correct to six decimal places).  `$\displaystyle \lim_{t\to 0} \frac{e^{5t} - 1}{t}$`  `$t = \pm 0.5, \pm 0.1, \pm 0.01, \pm 0.001, \pm 0.0001$`"
+75364,"Sketch the graph of an example of a function f that satisfies all of the given conditions. `$\lim_{x\to 0^-}f(x) =2, \lim_{x\to 0^+}f(x) =0, \lim_{x\to 4^+}f(x) =0, f(0) =2, f(4) = 1$`  `$f(0) =-1, f(3) = 1$`"
+75365,"Sketch the graph of an example of a function f that satisfies all of the given conditions. `$\lim_{x\to 3^+}f(x) =4, \lim_{x\to 3^-}f(x) =2, \lim_{x\to -2}f(x) =2, f(-2) = 1$`  "
+75366,"For the function f whose graph is shown, state the following.   **(a)** `$\displaystyle \lim_{x\to -7} f(x)$`  **(b)** `$\displaystyle \lim_{x\to -3} f(x)$`  **(c)** `$\displaystyle \lim_{x\to 0} f(x)$`  **(d)** `$\displaystyle \lim_{x\to 6^-} f(x)$`  **(e)** `$\displaystyle \lim_{x\to 6^+} f(x)$`  **(f)** The equation of the vertical asymptotes.  #73"
+75370, Explain what it means to say that     `$\lim_{x\to 1^-}f(x) = 3$` and `$\lim_{x\to 1^+} f(x) = 7 $`     In this situation is it possible that `$\lim_{x\to 1}f(x)$` exists? Explain. 
+75371,Explain in your own words what is meant by the equation   `$\displaystyle \lim_{x\to 2} f(x) = 5 $`   Is it possible for this statement to be true and yet `$f(2) = 3$`? Explain.
+75375," For the function h whose graph is given, state the value of each quantity, if it exists. If it does not exist, explain why.   `$ \displaystyle \begin{array}{ccccccccccc} &a) & \lim_{x\to -3^-} h(x) &b) & \lim_{x\to -3^+} h(x) & c) &\lim_{x\to -3} h(x) & d) &h(-3) &e) & \lim_{x\to 0^-} h(x) &f) & \lim_{x\to 0^+} h(x)\\ &g) & \lim_{x\to 0} h(x)  &h) & h(0) &i) & \lim_{x\to 2} h(x)  &j) & h(2)  & k) & \lim_{x\to 5^+} h(x)  & l) & \lim_{x\to 5^-} h(x) \\ & \end{array} $`  #70"
+75376,"For the function `$y$` whose graph is given, state the value of each quantity, if it exists. If it does not exist, explain why.   `$ \displaystyle \begin{array}{ccccccccccc} &a) & \lim_{t\to 0^-} g(t)  &b) &\lim_{t\to 0^+} g(t) & c) &\lim_{t\to 0} g(t) & d) &\lim_{t\to 2^-} g(t) \\ &e) &  \lim_{t\to 2^+} g(t)  &f) &  \lim_{t\to 2} g(t) &g) &g(2)  & h) & \lim_{t\to 4} g(t) \\ \end{array} $`  #71"
+75382,"Sketch the graph of an example of a function f that satisfies all of the given conditions. `$\lim_{x\to 0}f(x) =1, \lim_{x\to 3^-}f(x) =-2, \lim_{x\to 3^+}f(x) =2$`  `$f(0) =-1, f(3) = 1$`"
+75387,Find the limit.  `$\displaystyle \lim_{x\to 2^+} \frac{x^2 -2x - 8}{x^2 - 5x + 6}$`
+75388,Find the limit. `$\displaystyle \lim_{x\to 0^+} (\frac{1}{x} - \ln x)$`
+75389,Find the limit. `$\displaystyle \lim_{x\to 0} (\ln x^2 - x^{-2})$`
+75392,Estimate the value of the limit `$\lim_{x\to 0}(1 + x)^{\frac{1}{x}}$` decimal places. Does this number look familiar?
+75395,Use numerical and graphical evidence to guess the value of the limit  `$ \displaystyle \lim_{x\to 1} \frac{x^3 -1}{\sqrt{x} -1} $` 
+75397,"Consider the function `$f(x) = \tan \frac{1}{x}$`  Show that f(x)  = 0 for `$x = \frac{1}{\pi}, \frac{1}{2\pi}, \frac{1}{3\pi}, ...$`."
+75398,"Consider the function `$f(x) = \tan \frac{1}{x}$`  Show that f(x)  = 1 for `$x = \frac{4}{\pi}, \frac{4}{5\pi}, \frac{4}{9\pi}, ...$`"
+75533,"Find the limit, if is exists.  if the limit does not exist, explain why.  `$\displaystyle \lim_{x\to 3} (2x + |x - 3|)$`"
+75534,Evaluate `$\displaystyle \lim_{x\to 2}\frac{\sqrt{6 -x} -2}{\sqrt{3 -x}  -1}$`.
+75535,"Find the limit, if is exists.  if the limit does not exist, explain why.   `$\displaystyle \lim_{x\to -2} \frac{2 -|x|}{2 + x}$`"
+75536,"Find the limit, if is exists.  if the limit does not exist, explain why.  `$\displaystyle \lim_{x\to -6} \frac{2x + 12}{|x + 6|}$` "
+75537,Prove that `$\displaystyle \lim_{x\to 0}x^4\cos \frac{2}{x} =  0$`.
+75538,"If  `$4x - 9 \leq f(x) \leq x^2 -4x + 7$` for `$x \geq 0$`, find `$\lim_{x\to 4}f(x)$`."
+75539,Estimate the value of   `$\displaystyle \lim_{x \to 0} \frac{x}{\sqrt{1 + 3x} -1}$`  by graphing the function `$f(x) = x/(\sqrt{1 + 3x}-1)$`.
+75540,"Evaluate the limit, if it exists.  `$\displaystyle \lim_{h \to 0} \frac{\frac{1}{(x + h)^2} - \frac{1}{x^2}}{h}$`"
+75541,"Evaluate the limit, if it exists.  `$\displaystyle \lim_{t \to 0} (\frac{1}{t\sqrt{1 +t}} -\frac{1}{t})$`"
+75542,"Evaluate the limit, if it exists.  `$\displaystyle \lim_{t \to 0} (\frac{1}{t} - \frac{1}{t^2 + t})$` "
+75543,"Evaluate the limit, if it exists.  `$\displaystyle \lim_{t \to 0} \frac{\sqrt{1 + t} - \sqrt{1 - t}}{t}$`"
+75544,"Evaluate the limit, if it exists.  `$\displaystyle \lim_{h \to 0} \frac{(3 + h)^{-1} -3^{-1}}{h}$`"
+75546,"Evaluate the limit, if it exists.  `$\displaystyle \lim_{u \to 2} \frac{\sqrt{4u + 1}-3}{u  -2}$`"
+75547,"Evaluate the limit, if it exists.  `$\displaystyle \lim_{h \to 0} \frac{\sqrt{9 + h} -3}{h}$`"
+75548,"Evaluate the limit, if it exists.  `$\displaystyle \lim_{t \to 1} \frac{t^4- 1}{t^3 - 1}$`"
+75549,"Evaluate the limit, if it exists.  `$\displaystyle \lim_{x \to -2} \frac{x + 2}{x^3 + 8}$`"
+75550,"Evaluate the limit, if it exists.  `$\displaystyle \lim_{h \to 0} \frac{(2 + h)^3 - 8}{h}$`"
+75551,"If `$\lim_{x\to 0}\frac{f(x)}{x^2}= 5$`, find the following limits  (a) `$\displaystyle \lim_{x\to 0}f(x)$`  (b) `$\displaystyle \lim_{x\to 0} \frac{f(x)}{x}$` "
+75552,"If `$\displaystyle \lim_{x\to 1}\frac{f(x)-8}{x-1}= 10$`, find `$\lim_{x\to 1}f(x)$`."
+75556,"Evaluate the limit, if it exists.  `$\displaystyle \lim_{t \to -3} \frac{t^2-9}{2x^2 + 7t + 3}$`"
+75557,"Evaluate the limit, if it exists.    `$\displaystyle \lim_{x \to 5} \frac{x^2 -5x + 6}{x -5}$`"
+75558,Is there anything wrong with the following?   `$ \displaystyle \lim_{x \to 2} \frac{x^2 + x  -6}{x  - 2}  =  \lim_{x \to 2} (x + 3) $`
+75561,"Given that   `$\lim_{x\to 2}f(x)  =4$`		   `$\lim_{x\to 2}g(x)  =2$`       `$\lim_{x\to 2}h(x)  =0$`  find the limits that exist. If the limit does not exist, explain why.  `$\displaystyle \lim_{x\to 2} [g(x)]^3$`"
+75563,"Given that   `$\lim_{x\to 2}f(x)  =4$`		   `$\lim_{x\to 2}g(x)  =2$`       `$\lim_{x\to 2}h(x)  =0$`  find the limits that exist. If the limit does not exist, explain why.  `$\displaystyle \lim_{x\to 2}  \frac{3f(x)}{g(x)}$`"
+75575,Evaluate the limit and justify each step by indicating the appropriate Limit Law(s).  `$\displaystyle \lim_{x \to -2} \sqrt{x^4 + 3x + 6}$`  
+75577,Evaluate the limit and justify each step by indicating the appropriate Limit Law(s).  `$\displaystyle \lim_{t \to 2}  (\frac{t^2-2}{t^3- 3t + 5})^2$`
+75578,Evaluate the limit and justify each step by indicating the appropriate Limit Law(s).  `$\displaystyle \lim_{x \to 2} \sqrt{\frac{2x^2  +1}{3x -2}}$`
+75579,Use the Squeeze Theorem to show that  `$\lim_{x\to 0} \sqrt{x^3 + x^2}\sin \frac{\pi}{x}  = 0$`.
+75580,"If  `$4x - 9 \leq f(x) \leq x^2 -4x + 7$` for `$x \geq 0$`, find `$\lim_{x\to 4}f(x)$`."
+75581,"Evaluate the limit, if it exists.  `$\displaystyle \lim_{x \to 5} \frac{x^2 -6x + 5}{x - 5}$`"
+75582,"Evaluate the limit, if it exists.    `$\displaystyle \lim_{x \to -3} \frac{x^2  +3x}{x^2 - x -12}$`"
+75585,"Evaluate the limit, if it exists.  `$\displaystyle \lim_{h \to 0} \frac{(-5 + h)^2 - 25}{h}$`"
+75586,"Evaluate the limit, if it exists.  `$\displaystyle \lim_{x \to 16} \frac{4 -\sqrt{x}}{16x - x^2}$` "
+75587,"Evaluate the limit, if it exists.  `$\displaystyle \lim_{x \to 2} \frac{x^2 -4x + 4}{x^4-3x^2 -4}$` "
+75588,"Evaluate the limit, if it exists.  `$\displaystyle \lim_{t \to -4} \frac{\sqrt{x^2  + 9} - 5}{x + 4}$`"
+75589,"Evaluate the limit, if it exists.  `$\displaystyle \lim_{h \to 0} \frac{(x + h)^{3} -x^3}{h}$`"
+75590,Use the Limit Laws to  nd the exact value of the limit.  `$f(x) = \dfrac{\sqrt{3-x} -\sqrt{3}}{x}$`
+75591,Use the Squeeze Theorem to show that  `$\lim_{x\to 9}(x^2\cos 20\pi x) = 0 $`.
+75592,Use the Squeeze Theorem to show that  `$\lim_{x\to 0} \sqrt{x^3 + x^2}\sin \frac{\pi}{x}  = 0$`.
+75593,"If  `$2x \leq g(x) \leq x^4 -x^2  +2$` for all x, evaluate `$\lim_{x\to 1}g(x)$`."
+75594,Prove that `$\displaystyle \lim_{x\to 0^+} e^{\sin(\pi/x)}$`.
+84054,Limit with Absolute Value ex3
+84055,Limit with Absolute Value ex2
+85930,Evaluate `$\displaystyle \lim_{x\to 3}\frac{x^2-2x  -3}{x^2-x -6}$`=
+97351,"Evaluate each limit, if possible.  `$ \displaystyle \lim_{x\to 4} \frac{4- \sqrt{12  +x}}{x - 4} $`"
+97353,Evaluate the limit.   `$\displaystyle \lim_{x\to 8}  \frac{\sqrt{2} (\sqrt{x} - \sqrt{8})}{\sqrt[3]{x} - 2} $`
+97354,Evaluate the following limits.  `$ \displaystyle \lim_{x\to \infty} \frac{7\sqrt[3]{x} + 4\sqrt{x} - 3}{9\sqrt[3]{x} - 2\sqrt{x} + 9} $`
+97358,Evaluate  `$ \displaystyle \lim_{x\to 0} \frac{\sqrt{x + 1} - \sqrt{2x  +1}}{\sqrt[4]{3x +4} - \sqrt[4]{2x +4}} $`
+109559,Evaluate the limit if it exists.  `$\displaystyle \lim_{x \to 7} \frac{x^2 -49}{x - 7} $`
+109560,Evaluate the limit if it exists.  `$\displaystyle \lim_{x \to 0} \frac{9x}{2x^2 -5x} $`
+109561,Evaluate the limit if it exists.  `$\displaystyle \lim_{x \to 5} \frac{x^2 -3x - 10}{x - 5} $`
+109562,Evaluate the limit if it exists.  `$\displaystyle \lim_{x \to -3} (2x^4 -3x^2 + 6) $`
+109563,Evaluate the limit if it exists.  `$\displaystyle \lim_{x\to 9}(4x -1) $`
+109984,"Evaluate each limit, if it exists.  `$\displaystyle \lim_{ x\to 0} \frac{(2x + 1)^{\frac{1}{3}}-1}{x} $`"
+109985,"Evaluate each limit, if it exists.  `$\displaystyle \lim_{ x\to 4} \frac{16 -x^2}{x^3 + 64} $`"
+109986,Evaluate the limit by change of variable.  `$\displaystyle \lim_{x \to 0} \frac{(x + 8)^{\frac{1}{3}} -2}{x} $` 
+109987,Evaluate the limit by change of variable.  `$\displaystyle \lim_{x \to 1}  \frac{x^{\frac{1}{6}} -1}{x^{\frac{1}{3}} -1} $` 
+109988,Evaluate the limit by change of variable.  `$\displaystyle \lim_{x \to 8}  \frac{\sqrt[3]{x} -2}{x - 8} $` 
+109991,For what value of `$b$` does `$\lim_{ x\to 1} \frac{x^2 + bx -3}{x -1}$` exist?  
+109992,For what values of m and b is the statement `$\lim_{ x\to 0} \frac{\sqrt{mx  +b} -3}{x} = 1$`?
+110004,"Evaluate the limit of each difference quotient. In each case, interpret the limit as the slope of the tangent to a curve at a specific point.  `$\displaystyle \lim_{ h\to 0}\frac{(343 + h)^{\frac{1}{3}}-7}{h} $`"
+123842,Find the limit.  `$\displaystyle \lim_{ x \to 3} \frac{\sqrt{7 -x} -2}{1 - \sqrt{4 -x}} $`
+161374,Fully factor each polynomial by applying one or more strategies.   `$\displaystyle u^{4}-625 $` 
+161377,Fully factor each polynomial by applying one or more strategies.   `$\displaystyle 3 k^{4}-48 $` 
