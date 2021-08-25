@@ -4,7 +4,7 @@
 #code for regex in python - using strings not tables
 import re
 
-text = "frac{1}{2},\frac{b}{c+d},\dfrac{b}{c+d},\frac{\frac{1}{x}}{\sin{x}\cdot x^2},\frac{P(x)}{Q(x)},\frac{\partial u}{\partial t},\frac{\partial^2 u}{\partial x^2},$f'(x)$,$f''(x)$,$f^{(k)}(x)$,\dfrac{dy},\frac{dy},\dfrac{\mathrm{d}y},\frac{\mathrm{d}y},\frac{d},\frac{du},\frac{d^2 u},\frac{d^3 y},\tfrac{dy},\frac{df},y',y'',(x^2+5x+3)'"
+text = "frac{1}{2},frac{b}{c+d},dfrac{b}{c+d},frac{\frac{1}{x}}{\sin{x}\cdot x^2},frac{P(x)}{Q(x)},frac{\partial u}{\partial t},frac{\partial^2 u}{\partial x^2},$f'(x)$,$f''(x)$,$f^{(k)}(x)$,dfrac{dy},frac{dy},dfrac{\mathrm{d}y},frac{\mathrm{d}y},frac{d},frac{du},frac{d^2 u},frac{d^3 y},tfrac{dy},frac{df},y',y'',(x^2+5x+3)'"
 
 pattern = 'frac{(?!\d)d\w?|frac{\\\mathrm\{d}\w}|\$f\'\'?\(\S|\$f\^{\(\S|y\'|\(\S+\)\''
 
